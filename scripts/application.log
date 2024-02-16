@@ -1,0 +1,2129 @@
+WARNING - using automatically assigned random_state=3761535032
+INFO - done splitting triples to groups of sizes [24, 37, 38]
+WARNING - No random seed is specified. Setting to 400730102.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.06s seconds
+WARNING - using automatically assigned random_state=3506761312
+INFO - done splitting triples to groups of sizes [29, 41, 41]
+WARNING - No random seed is specified. Setting to 2411815724.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.06s seconds
+WARNING - using automatically assigned random_state=1564868117
+INFO - done splitting triples to groups of sizes [21, 33, 33]
+WARNING - No random seed is specified. Setting to 3295695807.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.06s seconds
+WARNING - using automatically assigned random_state=4153732497
+WARNING - using automatically assigned random_state=2479157065
+INFO - done splitting triples to groups of sizes [1534, 413, 414]
+WARNING - No random seed is specified. Setting to 2125190091.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 1.33s seconds
+WARNING - using automatically assigned random_state=3341956004
+INFO - done splitting triples to groups of sizes [76, 42, 43]
+WARNING - No random seed is specified. Setting to 2214464374.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.04s seconds
+WARNING - using automatically assigned random_state=2267252599
+INFO - done splitting triples to groups of sizes [1485, 413, 414]
+WARNING - No random seed is specified. Setting to 3910033044.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 1.11s seconds
+WARNING - using automatically assigned random_state=1780641606
+INFO - done splitting triples to groups of sizes [1790, 457, 458]
+WARNING - No random seed is specified. Setting to 3722816970.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 1.36s seconds
+WARNING - using automatically assigned random_state=2603048385
+INFO - done splitting triples to groups of sizes [21, 34, 34]
+WARNING - No random seed is specified. Setting to 1520282539.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.21s seconds
+WARNING - using automatically assigned random_state=2441289816
+INFO - done splitting triples to groups of sizes [1927, 469, 469]
+WARNING - No random seed is specified. Setting to 1088286071.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 3.81s seconds
+WARNING - using automatically assigned random_state=3151100384
+INFO - done splitting triples to groups of sizes [55, 43, 44]
+WARNING - No random seed is specified. Setting to 421670816.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.06s seconds
+WARNING - using automatically assigned random_state=4095367228
+INFO - done splitting triples to groups of sizes [12, 32, 32]
+WARNING - No random seed is specified. Setting to 2353489644.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.05s seconds
+WARNING - using automatically assigned random_state=3747117278
+INFO - done splitting triples to groups of sizes [14, 30, 31]
+WARNING - No random seed is specified. Setting to 405603510.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.04s seconds
+WARNING - using automatically assigned random_state=1007631866
+INFO - done splitting triples to groups of sizes [14, 30, 31]
+WARNING - No random seed is specified. Setting to 1979681694.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.03s seconds
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T12:47:05.016857', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 101 words, keeping 18 word types
+INFO - PROGRESS: at sentence #4, processed 103 words, keeping 20 word types
+INFO - PROGRESS: at sentence #6, processed 105 words, keeping 22 word types
+INFO - PROGRESS: at sentence #8, processed 206 words, keeping 26 word types
+INFO - PROGRESS: at sentence #10, processed 307 words, keeping 30 word types
+INFO - PROGRESS: at sentence #12, processed 309 words, keeping 32 word types
+INFO - PROGRESS: at sentence #14, processed 311 words, keeping 34 word types
+INFO - PROGRESS: at sentence #16, processed 313 words, keeping 36 word types
+INFO - PROGRESS: at sentence #18, processed 315 words, keeping 38 word types
+INFO - PROGRESS: at sentence #20, processed 416 words, keeping 41 word types
+INFO - PROGRESS: at sentence #22, processed 616 words, keeping 58 word types
+INFO - PROGRESS: at sentence #24, processed 717 words, keeping 60 word types
+INFO - PROGRESS: at sentence #26, processed 818 words, keeping 62 word types
+INFO - PROGRESS: at sentence #28, processed 820 words, keeping 64 word types
+INFO - PROGRESS: at sentence #30, processed 921 words, keeping 65 word types
+INFO - PROGRESS: at sentence #32, processed 923 words, keeping 67 word types
+INFO - PROGRESS: at sentence #34, processed 925 words, keeping 69 word types
+INFO - PROGRESS: at sentence #36, processed 927 words, keeping 71 word types
+INFO - PROGRESS: at sentence #38, processed 1028 words, keeping 79 word types
+INFO - PROGRESS: at sentence #40, processed 1129 words, keeping 88 word types
+INFO - PROGRESS: at sentence #42, processed 1131 words, keeping 90 word types
+INFO - PROGRESS: at sentence #44, processed 1133 words, keeping 92 word types
+INFO - PROGRESS: at sentence #46, processed 1135 words, keeping 94 word types
+INFO - PROGRESS: at sentence #48, processed 1137 words, keeping 96 word types
+INFO - PROGRESS: at sentence #50, processed 1139 words, keeping 98 word types
+INFO - PROGRESS: at sentence #52, processed 1141 words, keeping 100 word types
+INFO - PROGRESS: at sentence #54, processed 1143 words, keeping 102 word types
+INFO - PROGRESS: at sentence #56, processed 1244 words, keeping 103 word types
+INFO - PROGRESS: at sentence #58, processed 1246 words, keeping 105 word types
+INFO - PROGRESS: at sentence #60, processed 1248 words, keeping 107 word types
+INFO - PROGRESS: at sentence #62, processed 1349 words, keeping 108 word types
+INFO - PROGRESS: at sentence #64, processed 1351 words, keeping 110 word types
+INFO - PROGRESS: at sentence #66, processed 1353 words, keeping 112 word types
+INFO - PROGRESS: at sentence #68, processed 1355 words, keeping 114 word types
+INFO - PROGRESS: at sentence #70, processed 1456 words, keeping 117 word types
+INFO - PROGRESS: at sentence #72, processed 1458 words, keeping 119 word types
+INFO - PROGRESS: at sentence #74, processed 1559 words, keeping 121 word types
+INFO - PROGRESS: at sentence #76, processed 1660 words, keeping 122 word types
+INFO - PROGRESS: at sentence #78, processed 1662 words, keeping 124 word types
+INFO - PROGRESS: at sentence #80, processed 1664 words, keeping 126 word types
+INFO - PROGRESS: at sentence #82, processed 1666 words, keeping 128 word types
+INFO - PROGRESS: at sentence #84, processed 1668 words, keeping 130 word types
+INFO - PROGRESS: at sentence #86, processed 1670 words, keeping 132 word types
+INFO - PROGRESS: at sentence #88, processed 1672 words, keeping 134 word types
+INFO - PROGRESS: at sentence #90, processed 1674 words, keeping 136 word types
+INFO - PROGRESS: at sentence #92, processed 1676 words, keeping 138 word types
+INFO - PROGRESS: at sentence #94, processed 1678 words, keeping 140 word types
+INFO - PROGRESS: at sentence #96, processed 1680 words, keeping 142 word types
+INFO - PROGRESS: at sentence #98, processed 1682 words, keeping 144 word types
+INFO - PROGRESS: at sentence #100, processed 1783 words, keeping 145 word types
+INFO - PROGRESS: at sentence #102, processed 1785 words, keeping 147 word types
+INFO - PROGRESS: at sentence #104, processed 1886 words, keeping 148 word types
+INFO - PROGRESS: at sentence #106, processed 1987 words, keeping 149 word types
+INFO - PROGRESS: at sentence #108, processed 1989 words, keeping 151 word types
+INFO - PROGRESS: at sentence #110, processed 2090 words, keeping 152 word types
+INFO - PROGRESS: at sentence #112, processed 2092 words, keeping 154 word types
+INFO - PROGRESS: at sentence #114, processed 2193 words, keeping 155 word types
+INFO - PROGRESS: at sentence #116, processed 2294 words, keeping 156 word types
+INFO - PROGRESS: at sentence #118, processed 2296 words, keeping 158 word types
+INFO - PROGRESS: at sentence #120, processed 2397 words, keeping 159 word types
+INFO - PROGRESS: at sentence #122, processed 2399 words, keeping 161 word types
+INFO - PROGRESS: at sentence #124, processed 2401 words, keeping 163 word types
+INFO - PROGRESS: at sentence #126, processed 2403 words, keeping 165 word types
+INFO - PROGRESS: at sentence #128, processed 2504 words, keeping 166 word types
+INFO - PROGRESS: at sentence #130, processed 2506 words, keeping 168 word types
+INFO - PROGRESS: at sentence #132, processed 2607 words, keeping 169 word types
+INFO - PROGRESS: at sentence #134, processed 2609 words, keeping 171 word types
+INFO - PROGRESS: at sentence #136, processed 2710 words, keeping 174 word types
+INFO - PROGRESS: at sentence #138, processed 2712 words, keeping 176 word types
+INFO - PROGRESS: at sentence #140, processed 2813 words, keeping 177 word types
+INFO - PROGRESS: at sentence #142, processed 3013 words, keeping 177 word types
+INFO - PROGRESS: at sentence #144, processed 3015 words, keeping 179 word types
+INFO - PROGRESS: at sentence #146, processed 3017 words, keeping 181 word types
+INFO - PROGRESS: at sentence #148, processed 3019 words, keeping 183 word types
+INFO - PROGRESS: at sentence #150, processed 3219 words, keeping 183 word types
+INFO - PROGRESS: at sentence #152, processed 3320 words, keeping 184 word types
+INFO - PROGRESS: at sentence #154, processed 3322 words, keeping 186 word types
+INFO - collected 187 word types from a corpus of 3323 raw words and 155 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 187 unique words (100.00% of original 187, drops 0)', 'datetime': '2024-01-01T12:47:05.041484', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 3323 word corpus (100.00% of original 3323, drops 0)', 'datetime': '2024-01-01T12:47:05.041835', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 187 items
+INFO - sample=0.001 downsamples 64 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1115.4779029553067 word corpus (33.6%% of prior 3323)', 'datetime': '2024-01-01T12:47:05.043292', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 187 words and 100 dimensions: 243100 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T12:47:05.045101', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 187 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T12:47:05.045416', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 3323 raw words (1051 effective words) took 0.0s, 310230 effective words/s
+INFO - EPOCH 1: training on 3323 raw words (1131 effective words) took 0.0s, 372002 effective words/s
+INFO - EPOCH 2: training on 3323 raw words (1055 effective words) took 0.0s, 324237 effective words/s
+INFO - EPOCH 3: training on 3323 raw words (1063 effective words) took 0.0s, 372742 effective words/s
+INFO - EPOCH 4: training on 3323 raw words (1152 effective words) took 0.0s, 390610 effective words/s
+INFO - EPOCH 5: training on 3323 raw words (1143 effective words) took 0.0s, 266973 effective words/s
+INFO - EPOCH 6: training on 3323 raw words (1088 effective words) took 0.0s, 358534 effective words/s
+INFO - EPOCH 7: training on 3323 raw words (1129 effective words) took 0.0s, 529027 effective words/s
+INFO - EPOCH 8: training on 3323 raw words (1108 effective words) took 0.0s, 339188 effective words/s
+INFO - EPOCH 9: training on 3323 raw words (1095 effective words) took 0.0s, 352881 effective words/s
+INFO - EPOCH 10: training on 3323 raw words (1102 effective words) took 0.0s, 379709 effective words/s
+INFO - EPOCH 11: training on 3323 raw words (1135 effective words) took 0.0s, 411494 effective words/s
+INFO - EPOCH 12: training on 3323 raw words (1095 effective words) took 0.0s, 412003 effective words/s
+INFO - EPOCH 13: training on 3323 raw words (1101 effective words) took 0.0s, 521705 effective words/s
+INFO - EPOCH 14: training on 3323 raw words (1106 effective words) took 0.0s, 460258 effective words/s
+INFO - EPOCH 15: training on 3323 raw words (1103 effective words) took 0.0s, 383513 effective words/s
+INFO - EPOCH 16: training on 3323 raw words (1096 effective words) took 0.0s, 394927 effective words/s
+INFO - EPOCH 17: training on 3323 raw words (1097 effective words) took 0.0s, 549054 effective words/s
+INFO - EPOCH 18: training on 3323 raw words (1131 effective words) took 0.0s, 348529 effective words/s
+INFO - EPOCH 19: training on 3323 raw words (1096 effective words) took 0.0s, 398446 effective words/s
+INFO - EPOCH 20: training on 3323 raw words (1101 effective words) took 0.0s, 396913 effective words/s
+INFO - EPOCH 21: training on 3323 raw words (1086 effective words) took 0.0s, 399268 effective words/s
+INFO - EPOCH 22: training on 3323 raw words (1146 effective words) took 0.0s, 424224 effective words/s
+INFO - EPOCH 23: training on 3323 raw words (1133 effective words) took 0.0s, 378909 effective words/s
+INFO - EPOCH 24: training on 3323 raw words (1108 effective words) took 0.0s, 416325 effective words/s
+INFO - EPOCH 25: training on 3323 raw words (1111 effective words) took 0.0s, 402136 effective words/s
+INFO - EPOCH 26: training on 3323 raw words (1095 effective words) took 0.0s, 386349 effective words/s
+INFO - EPOCH 27: training on 3323 raw words (1139 effective words) took 0.0s, 403380 effective words/s
+INFO - EPOCH 28: training on 3323 raw words (1095 effective words) took 0.0s, 438883 effective words/s
+INFO - EPOCH 29: training on 3323 raw words (1140 effective words) took 0.0s, 409373 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 99690 raw words (33231 effective words) took 0.2s, 220451 effective words/s', 'datetime': '2024-01-01T12:47:05.196334', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T12:52:48.958002', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 101 words, keeping 24 word types
+INFO - PROGRESS: at sentence #4, processed 202 words, keeping 28 word types
+INFO - PROGRESS: at sentence #6, processed 303 words, keeping 31 word types
+INFO - PROGRESS: at sentence #8, processed 404 words, keeping 34 word types
+INFO - PROGRESS: at sentence #10, processed 406 words, keeping 36 word types
+INFO - PROGRESS: at sentence #12, processed 606 words, keeping 49 word types
+INFO - PROGRESS: at sentence #14, processed 608 words, keeping 51 word types
+INFO - PROGRESS: at sentence #16, processed 610 words, keeping 53 word types
+INFO - PROGRESS: at sentence #18, processed 711 words, keeping 55 word types
+INFO - PROGRESS: at sentence #20, processed 812 words, keeping 58 word types
+INFO - PROGRESS: at sentence #22, processed 1012 words, keeping 64 word types
+INFO - PROGRESS: at sentence #24, processed 1113 words, keeping 65 word types
+INFO - PROGRESS: at sentence #26, processed 1115 words, keeping 67 word types
+INFO - PROGRESS: at sentence #28, processed 1216 words, keeping 70 word types
+INFO - PROGRESS: at sentence #30, processed 1317 words, keeping 71 word types
+INFO - PROGRESS: at sentence #32, processed 1418 words, keeping 72 word types
+INFO - PROGRESS: at sentence #34, processed 1420 words, keeping 74 word types
+INFO - PROGRESS: at sentence #36, processed 1521 words, keeping 77 word types
+INFO - PROGRESS: at sentence #38, processed 1523 words, keeping 79 word types
+INFO - PROGRESS: at sentence #40, processed 1624 words, keeping 81 word types
+INFO - PROGRESS: at sentence #42, processed 1824 words, keeping 81 word types
+INFO - PROGRESS: at sentence #44, processed 1925 words, keeping 84 word types
+INFO - PROGRESS: at sentence #46, processed 1927 words, keeping 86 word types
+INFO - PROGRESS: at sentence #48, processed 1929 words, keeping 88 word types
+INFO - PROGRESS: at sentence #50, processed 1931 words, keeping 90 word types
+INFO - PROGRESS: at sentence #52, processed 1933 words, keeping 92 word types
+INFO - PROGRESS: at sentence #54, processed 1935 words, keeping 94 word types
+INFO - PROGRESS: at sentence #56, processed 2036 words, keeping 97 word types
+INFO - PROGRESS: at sentence #58, processed 2137 words, keeping 98 word types
+INFO - PROGRESS: at sentence #60, processed 2238 words, keeping 102 word types
+INFO - PROGRESS: at sentence #62, processed 2438 words, keeping 102 word types
+INFO - PROGRESS: at sentence #64, processed 2440 words, keeping 104 word types
+INFO - PROGRESS: at sentence #66, processed 2442 words, keeping 106 word types
+INFO - PROGRESS: at sentence #68, processed 2543 words, keeping 107 word types
+INFO - PROGRESS: at sentence #70, processed 2644 words, keeping 110 word types
+INFO - PROGRESS: at sentence #72, processed 2646 words, keeping 112 word types
+INFO - PROGRESS: at sentence #74, processed 2846 words, keeping 112 word types
+INFO - PROGRESS: at sentence #76, processed 2947 words, keeping 116 word types
+INFO - PROGRESS: at sentence #78, processed 3048 words, keeping 119 word types
+INFO - PROGRESS: at sentence #80, processed 3149 words, keeping 120 word types
+INFO - PROGRESS: at sentence #82, processed 3151 words, keeping 122 word types
+INFO - PROGRESS: at sentence #84, processed 3153 words, keeping 124 word types
+INFO - PROGRESS: at sentence #86, processed 3254 words, keeping 125 word types
+INFO - PROGRESS: at sentence #88, processed 3355 words, keeping 126 word types
+INFO - PROGRESS: at sentence #90, processed 3456 words, keeping 129 word types
+INFO - PROGRESS: at sentence #92, processed 3458 words, keeping 131 word types
+INFO - PROGRESS: at sentence #94, processed 3559 words, keeping 132 word types
+INFO - PROGRESS: at sentence #96, processed 3561 words, keeping 134 word types
+INFO - PROGRESS: at sentence #98, processed 3563 words, keeping 136 word types
+INFO - PROGRESS: at sentence #100, processed 3565 words, keeping 138 word types
+INFO - PROGRESS: at sentence #102, processed 3567 words, keeping 140 word types
+INFO - PROGRESS: at sentence #104, processed 3767 words, keeping 144 word types
+INFO - PROGRESS: at sentence #106, processed 3769 words, keeping 146 word types
+INFO - PROGRESS: at sentence #108, processed 3870 words, keeping 149 word types
+INFO - PROGRESS: at sentence #110, processed 3971 words, keeping 150 word types
+INFO - PROGRESS: at sentence #112, processed 3973 words, keeping 152 word types
+INFO - PROGRESS: at sentence #114, processed 3975 words, keeping 154 word types
+INFO - PROGRESS: at sentence #116, processed 3977 words, keeping 156 word types
+INFO - PROGRESS: at sentence #118, processed 3979 words, keeping 158 word types
+INFO - PROGRESS: at sentence #120, processed 4080 words, keeping 159 word types
+INFO - PROGRESS: at sentence #122, processed 4082 words, keeping 161 word types
+INFO - PROGRESS: at sentence #124, processed 4084 words, keeping 163 word types
+INFO - PROGRESS: at sentence #126, processed 4086 words, keeping 165 word types
+INFO - PROGRESS: at sentence #128, processed 4187 words, keeping 169 word types
+INFO - PROGRESS: at sentence #130, processed 4288 words, keeping 170 word types
+INFO - PROGRESS: at sentence #132, processed 4389 words, keeping 171 word types
+INFO - PROGRESS: at sentence #134, processed 4391 words, keeping 173 word types
+INFO - PROGRESS: at sentence #136, processed 4492 words, keeping 174 word types
+INFO - PROGRESS: at sentence #138, processed 4494 words, keeping 176 word types
+INFO - PROGRESS: at sentence #140, processed 4595 words, keeping 177 word types
+INFO - PROGRESS: at sentence #142, processed 4597 words, keeping 179 word types
+INFO - PROGRESS: at sentence #144, processed 4698 words, keeping 180 word types
+INFO - PROGRESS: at sentence #146, processed 4700 words, keeping 182 word types
+INFO - PROGRESS: at sentence #148, processed 4801 words, keeping 183 word types
+INFO - collected 184 word types from a corpus of 4802 raw words and 149 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 184 unique words (100.00% of original 184, drops 0)', 'datetime': '2024-01-01T12:52:48.979834', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 4802 word corpus (100.00% of original 4802, drops 0)', 'datetime': '2024-01-01T12:52:48.980200', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 184 items
+INFO - sample=0.001 downsamples 81 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1781.777871282948 word corpus (37.1%% of prior 4802)', 'datetime': '2024-01-01T12:52:48.981585', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 184 words and 100 dimensions: 239200 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T12:52:48.983125', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 184 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T12:52:48.983347', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 4802 raw words (1735 effective words) took 0.0s, 397090 effective words/s
+INFO - EPOCH 1: training on 4802 raw words (1793 effective words) took 0.0s, 366602 effective words/s
+INFO - EPOCH 2: training on 4802 raw words (1781 effective words) took 0.0s, 378595 effective words/s
+INFO - EPOCH 3: training on 4802 raw words (1790 effective words) took 0.0s, 415376 effective words/s
+INFO - EPOCH 4: training on 4802 raw words (1732 effective words) took 0.0s, 413913 effective words/s
+INFO - EPOCH 5: training on 4802 raw words (1739 effective words) took 0.0s, 405147 effective words/s
+INFO - EPOCH 6: training on 4802 raw words (1770 effective words) took 0.0s, 376089 effective words/s
+INFO - EPOCH 7: training on 4802 raw words (1767 effective words) took 0.0s, 423837 effective words/s
+INFO - EPOCH 8: training on 4802 raw words (1772 effective words) took 0.0s, 401496 effective words/s
+INFO - EPOCH 9: training on 4802 raw words (1790 effective words) took 0.0s, 388785 effective words/s
+INFO - EPOCH 10: training on 4802 raw words (1701 effective words) took 0.0s, 360234 effective words/s
+INFO - EPOCH 11: training on 4802 raw words (1773 effective words) took 0.0s, 406550 effective words/s
+INFO - EPOCH 12: training on 4802 raw words (1771 effective words) took 0.0s, 405281 effective words/s
+INFO - EPOCH 13: training on 4802 raw words (1772 effective words) took 0.0s, 425645 effective words/s
+INFO - EPOCH 14: training on 4802 raw words (1732 effective words) took 0.0s, 415824 effective words/s
+INFO - EPOCH 15: training on 4802 raw words (1796 effective words) took 0.0s, 422081 effective words/s
+INFO - EPOCH 16: training on 4802 raw words (1831 effective words) took 0.0s, 425513 effective words/s
+INFO - EPOCH 17: training on 4802 raw words (1716 effective words) took 0.0s, 457759 effective words/s
+INFO - EPOCH 18: training on 4802 raw words (1788 effective words) took 0.0s, 624496 effective words/s
+INFO - EPOCH 19: training on 4802 raw words (1745 effective words) took 0.0s, 400141 effective words/s
+INFO - EPOCH 20: training on 4802 raw words (1793 effective words) took 0.0s, 556732 effective words/s
+INFO - EPOCH 21: training on 4802 raw words (1768 effective words) took 0.0s, 565439 effective words/s
+INFO - EPOCH 22: training on 4802 raw words (1780 effective words) took 0.0s, 426083 effective words/s
+INFO - EPOCH 23: training on 4802 raw words (1780 effective words) took 0.0s, 380018 effective words/s
+INFO - EPOCH 24: training on 4802 raw words (1811 effective words) took 0.0s, 454300 effective words/s
+INFO - EPOCH 25: training on 4802 raw words (1759 effective words) took 0.0s, 556594 effective words/s
+INFO - EPOCH 26: training on 4802 raw words (1748 effective words) took 0.0s, 395271 effective words/s
+INFO - EPOCH 27: training on 4802 raw words (1790 effective words) took 0.0s, 462811 effective words/s
+INFO - EPOCH 28: training on 4802 raw words (1788 effective words) took 0.0s, 641743 effective words/s
+INFO - EPOCH 29: training on 4802 raw words (1755 effective words) took 0.0s, 459205 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 144060 raw words (53066 effective words) took 0.2s, 271413 effective words/s', 'datetime': '2024-01-01T12:52:49.179035', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T12:53:41.744770', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 2 words, keeping 2 word types
+INFO - PROGRESS: at sentence #4, processed 4 words, keeping 4 word types
+INFO - PROGRESS: at sentence #6, processed 105 words, keeping 35 word types
+INFO - PROGRESS: at sentence #8, processed 107 words, keeping 37 word types
+INFO - PROGRESS: at sentence #10, processed 109 words, keeping 39 word types
+INFO - PROGRESS: at sentence #12, processed 210 words, keeping 44 word types
+INFO - PROGRESS: at sentence #14, processed 212 words, keeping 46 word types
+INFO - PROGRESS: at sentence #16, processed 412 words, keeping 52 word types
+INFO - PROGRESS: at sentence #18, processed 414 words, keeping 54 word types
+INFO - PROGRESS: at sentence #20, processed 515 words, keeping 57 word types
+INFO - PROGRESS: at sentence #22, processed 715 words, keeping 58 word types
+INFO - PROGRESS: at sentence #24, processed 816 words, keeping 63 word types
+INFO - PROGRESS: at sentence #26, processed 917 words, keeping 64 word types
+INFO - PROGRESS: at sentence #28, processed 919 words, keeping 66 word types
+INFO - PROGRESS: at sentence #30, processed 921 words, keeping 68 word types
+INFO - PROGRESS: at sentence #32, processed 1022 words, keeping 76 word types
+INFO - PROGRESS: at sentence #34, processed 1024 words, keeping 78 word types
+INFO - PROGRESS: at sentence #36, processed 1026 words, keeping 80 word types
+INFO - PROGRESS: at sentence #38, processed 1028 words, keeping 82 word types
+INFO - PROGRESS: at sentence #40, processed 1129 words, keeping 84 word types
+INFO - PROGRESS: at sentence #42, processed 1131 words, keeping 86 word types
+INFO - PROGRESS: at sentence #44, processed 1133 words, keeping 88 word types
+INFO - PROGRESS: at sentence #46, processed 1234 words, keeping 89 word types
+INFO - PROGRESS: at sentence #48, processed 1236 words, keeping 91 word types
+INFO - PROGRESS: at sentence #50, processed 1238 words, keeping 93 word types
+INFO - PROGRESS: at sentence #52, processed 1339 words, keeping 94 word types
+INFO - PROGRESS: at sentence #54, processed 1341 words, keeping 96 word types
+INFO - PROGRESS: at sentence #56, processed 1442 words, keeping 99 word types
+INFO - PROGRESS: at sentence #58, processed 1543 words, keeping 100 word types
+INFO - PROGRESS: at sentence #60, processed 1644 words, keeping 104 word types
+INFO - PROGRESS: at sentence #62, processed 1844 words, keeping 104 word types
+INFO - PROGRESS: at sentence #64, processed 1945 words, keeping 105 word types
+INFO - PROGRESS: at sentence #66, processed 1947 words, keeping 107 word types
+INFO - PROGRESS: at sentence #68, processed 2048 words, keeping 108 word types
+INFO - PROGRESS: at sentence #70, processed 2248 words, keeping 112 word types
+INFO - PROGRESS: at sentence #72, processed 2250 words, keeping 114 word types
+INFO - PROGRESS: at sentence #74, processed 2252 words, keeping 116 word types
+INFO - PROGRESS: at sentence #76, processed 2254 words, keeping 118 word types
+INFO - PROGRESS: at sentence #78, processed 2355 words, keeping 119 word types
+INFO - PROGRESS: at sentence #80, processed 2357 words, keeping 121 word types
+INFO - PROGRESS: at sentence #82, processed 2359 words, keeping 123 word types
+INFO - PROGRESS: at sentence #84, processed 2460 words, keeping 124 word types
+INFO - PROGRESS: at sentence #86, processed 2462 words, keeping 126 word types
+INFO - PROGRESS: at sentence #88, processed 2563 words, keeping 127 word types
+INFO - PROGRESS: at sentence #90, processed 2664 words, keeping 128 word types
+INFO - PROGRESS: at sentence #92, processed 2765 words, keeping 129 word types
+INFO - PROGRESS: at sentence #94, processed 2866 words, keeping 130 word types
+INFO - PROGRESS: at sentence #96, processed 2868 words, keeping 132 word types
+INFO - PROGRESS: at sentence #98, processed 2969 words, keeping 133 word types
+INFO - PROGRESS: at sentence #100, processed 3070 words, keeping 134 word types
+INFO - PROGRESS: at sentence #102, processed 3171 words, keeping 135 word types
+INFO - PROGRESS: at sentence #104, processed 3272 words, keeping 136 word types
+INFO - PROGRESS: at sentence #106, processed 3274 words, keeping 138 word types
+INFO - collected 140 word types from a corpus of 3276 raw words and 108 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 140 unique words (100.00% of original 140, drops 0)', 'datetime': '2024-01-01T12:53:41.766673', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 3276 word corpus (100.00% of original 3276, drops 0)', 'datetime': '2024-01-01T12:53:41.766924', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 140 items
+INFO - sample=0.001 downsamples 64 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1049.985118833256 word corpus (32.1%% of prior 3276)', 'datetime': '2024-01-01T12:53:41.768101', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 140 words and 100 dimensions: 182000 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T12:53:41.769656', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 140 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T12:53:41.769844', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 3276 raw words (995 effective words) took 0.0s, 354432 effective words/s
+INFO - EPOCH 1: training on 3276 raw words (1062 effective words) took 0.0s, 358035 effective words/s
+INFO - EPOCH 2: training on 3276 raw words (1047 effective words) took 0.0s, 352898 effective words/s
+INFO - EPOCH 3: training on 3276 raw words (1013 effective words) took 0.0s, 352727 effective words/s
+INFO - EPOCH 4: training on 3276 raw words (999 effective words) took 0.0s, 372903 effective words/s
+INFO - EPOCH 5: training on 3276 raw words (1104 effective words) took 0.0s, 341541 effective words/s
+INFO - EPOCH 6: training on 3276 raw words (1099 effective words) took 0.0s, 350817 effective words/s
+INFO - EPOCH 7: training on 3276 raw words (1069 effective words) took 0.0s, 355906 effective words/s
+INFO - EPOCH 8: training on 3276 raw words (1067 effective words) took 0.0s, 339715 effective words/s
+INFO - EPOCH 9: training on 3276 raw words (1028 effective words) took 0.0s, 358350 effective words/s
+INFO - EPOCH 10: training on 3276 raw words (1102 effective words) took 0.0s, 364518 effective words/s
+INFO - EPOCH 11: training on 3276 raw words (1011 effective words) took 0.0s, 369162 effective words/s
+INFO - EPOCH 12: training on 3276 raw words (1039 effective words) took 0.0s, 362321 effective words/s
+INFO - EPOCH 13: training on 3276 raw words (1030 effective words) took 0.0s, 375873 effective words/s
+INFO - EPOCH 14: training on 3276 raw words (1042 effective words) took 0.0s, 367971 effective words/s
+INFO - EPOCH 15: training on 3276 raw words (1024 effective words) took 0.0s, 371189 effective words/s
+INFO - EPOCH 16: training on 3276 raw words (1053 effective words) took 0.0s, 526170 effective words/s
+INFO - EPOCH 17: training on 3276 raw words (1065 effective words) took 0.0s, 377013 effective words/s
+INFO - EPOCH 18: training on 3276 raw words (1048 effective words) took 0.0s, 380940 effective words/s
+INFO - EPOCH 19: training on 3276 raw words (1053 effective words) took 0.0s, 379658 effective words/s
+INFO - EPOCH 20: training on 3276 raw words (1102 effective words) took 0.0s, 394131 effective words/s
+INFO - EPOCH 21: training on 3276 raw words (1043 effective words) took 0.0s, 383651 effective words/s
+INFO - EPOCH 22: training on 3276 raw words (1048 effective words) took 0.0s, 593411 effective words/s
+INFO - EPOCH 23: training on 3276 raw words (1096 effective words) took 0.0s, 549860 effective words/s
+INFO - EPOCH 24: training on 3276 raw words (1067 effective words) took 0.0s, 445972 effective words/s
+INFO - EPOCH 25: training on 3276 raw words (1073 effective words) took 0.0s, 558896 effective words/s
+INFO - EPOCH 26: training on 3276 raw words (1046 effective words) took 0.0s, 392249 effective words/s
+INFO - EPOCH 27: training on 3276 raw words (1027 effective words) took 0.0s, 563452 effective words/s
+INFO - EPOCH 28: training on 3276 raw words (1031 effective words) took 0.0s, 391597 effective words/s
+INFO - EPOCH 29: training on 3276 raw words (1024 effective words) took 0.0s, 312428 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 98280 raw words (31507 effective words) took 0.1s, 238011 effective words/s', 'datetime': '2024-01-01T12:53:41.902484', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T12:55:14.642793', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 2 words, keeping 2 word types
+INFO - PROGRESS: at sentence #4, processed 103 words, keeping 31 word types
+INFO - PROGRESS: at sentence #6, processed 105 words, keeping 33 word types
+INFO - PROGRESS: at sentence #8, processed 206 words, keeping 37 word types
+INFO - PROGRESS: at sentence #10, processed 208 words, keeping 39 word types
+INFO - PROGRESS: at sentence #12, processed 210 words, keeping 41 word types
+INFO - PROGRESS: at sentence #14, processed 311 words, keeping 44 word types
+INFO - PROGRESS: at sentence #16, processed 313 words, keeping 46 word types
+INFO - PROGRESS: at sentence #18, processed 414 words, keeping 47 word types
+INFO - PROGRESS: at sentence #20, processed 416 words, keeping 49 word types
+INFO - PROGRESS: at sentence #22, processed 418 words, keeping 51 word types
+INFO - PROGRESS: at sentence #24, processed 420 words, keeping 53 word types
+INFO - PROGRESS: at sentence #26, processed 521 words, keeping 55 word types
+INFO - PROGRESS: at sentence #28, processed 622 words, keeping 56 word types
+INFO - PROGRESS: at sentence #30, processed 723 words, keeping 57 word types
+INFO - PROGRESS: at sentence #32, processed 923 words, keeping 61 word types
+INFO - PROGRESS: at sentence #34, processed 1123 words, keeping 61 word types
+INFO - PROGRESS: at sentence #36, processed 1224 words, keeping 62 word types
+INFO - PROGRESS: at sentence #38, processed 1325 words, keeping 63 word types
+INFO - PROGRESS: at sentence #40, processed 1327 words, keeping 65 word types
+INFO - PROGRESS: at sentence #42, processed 1428 words, keeping 66 word types
+INFO - PROGRESS: at sentence #44, processed 1529 words, keeping 69 word types
+INFO - PROGRESS: at sentence #46, processed 1531 words, keeping 71 word types
+INFO - PROGRESS: at sentence #48, processed 1632 words, keeping 74 word types
+INFO - PROGRESS: at sentence #50, processed 1733 words, keeping 79 word types
+INFO - PROGRESS: at sentence #52, processed 1834 words, keeping 80 word types
+INFO - PROGRESS: at sentence #54, processed 1836 words, keeping 82 word types
+INFO - PROGRESS: at sentence #56, processed 2036 words, keeping 86 word types
+INFO - PROGRESS: at sentence #58, processed 2038 words, keeping 88 word types
+INFO - PROGRESS: at sentence #60, processed 2040 words, keeping 90 word types
+INFO - PROGRESS: at sentence #62, processed 2141 words, keeping 95 word types
+INFO - PROGRESS: at sentence #64, processed 2143 words, keeping 97 word types
+INFO - PROGRESS: at sentence #66, processed 2343 words, keeping 99 word types
+INFO - PROGRESS: at sentence #68, processed 2444 words, keeping 102 word types
+INFO - PROGRESS: at sentence #70, processed 2545 words, keeping 103 word types
+INFO - PROGRESS: at sentence #72, processed 2646 words, keeping 104 word types
+INFO - PROGRESS: at sentence #74, processed 2648 words, keeping 106 word types
+INFO - PROGRESS: at sentence #76, processed 2749 words, keeping 109 word types
+INFO - PROGRESS: at sentence #78, processed 2751 words, keeping 111 word types
+INFO - PROGRESS: at sentence #80, processed 2753 words, keeping 113 word types
+INFO - PROGRESS: at sentence #82, processed 2755 words, keeping 115 word types
+INFO - PROGRESS: at sentence #84, processed 2757 words, keeping 117 word types
+INFO - PROGRESS: at sentence #86, processed 2759 words, keeping 119 word types
+INFO - PROGRESS: at sentence #88, processed 2761 words, keeping 121 word types
+INFO - PROGRESS: at sentence #90, processed 2862 words, keeping 122 word types
+INFO - PROGRESS: at sentence #92, processed 2864 words, keeping 124 word types
+INFO - PROGRESS: at sentence #94, processed 2965 words, keeping 128 word types
+INFO - PROGRESS: at sentence #96, processed 3066 words, keeping 135 word types
+INFO - PROGRESS: at sentence #98, processed 3167 words, keeping 136 word types
+INFO - PROGRESS: at sentence #100, processed 3268 words, keeping 139 word types
+INFO - PROGRESS: at sentence #102, processed 3270 words, keeping 141 word types
+INFO - PROGRESS: at sentence #104, processed 3371 words, keeping 142 word types
+INFO - PROGRESS: at sentence #106, processed 3373 words, keeping 144 word types
+INFO - PROGRESS: at sentence #108, processed 3474 words, keeping 147 word types
+INFO - PROGRESS: at sentence #110, processed 3575 words, keeping 148 word types
+INFO - PROGRESS: at sentence #112, processed 3775 words, keeping 148 word types
+INFO - PROGRESS: at sentence #114, processed 3975 words, keeping 150 word types
+INFO - PROGRESS: at sentence #116, processed 4076 words, keeping 151 word types
+INFO - PROGRESS: at sentence #118, processed 4078 words, keeping 153 word types
+INFO - PROGRESS: at sentence #120, processed 4179 words, keeping 154 word types
+INFO - PROGRESS: at sentence #122, processed 4280 words, keeping 157 word types
+INFO - PROGRESS: at sentence #124, processed 4381 words, keeping 158 word types
+INFO - collected 159 word types from a corpus of 4382 raw words and 125 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 159 unique words (100.00% of original 159, drops 0)', 'datetime': '2024-01-01T12:55:14.662816', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 4382 word corpus (100.00% of original 4382, drops 0)', 'datetime': '2024-01-01T12:55:14.663131', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 159 items
+INFO - sample=0.001 downsamples 77 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1575.9279473172296 word corpus (36.0%% of prior 4382)', 'datetime': '2024-01-01T12:55:14.664371', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 159 words and 100 dimensions: 206700 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T12:55:14.666118', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 159 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T12:55:14.666457', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 4382 raw words (1490 effective words) took 0.0s, 323637 effective words/s
+INFO - EPOCH 1: training on 4382 raw words (1579 effective words) took 0.0s, 347144 effective words/s
+INFO - EPOCH 2: training on 4382 raw words (1594 effective words) took 0.0s, 448122 effective words/s
+INFO - EPOCH 3: training on 4382 raw words (1570 effective words) took 0.0s, 391806 effective words/s
+INFO - EPOCH 4: training on 4382 raw words (1564 effective words) took 0.0s, 358604 effective words/s
+INFO - EPOCH 5: training on 4382 raw words (1548 effective words) took 0.0s, 391767 effective words/s
+INFO - EPOCH 6: training on 4382 raw words (1582 effective words) took 0.0s, 504385 effective words/s
+INFO - EPOCH 7: training on 4382 raw words (1594 effective words) took 0.0s, 387183 effective words/s
+INFO - EPOCH 8: training on 4382 raw words (1595 effective words) took 0.0s, 587089 effective words/s
+INFO - EPOCH 9: training on 4382 raw words (1587 effective words) took 0.0s, 559061 effective words/s
+INFO - EPOCH 10: training on 4382 raw words (1588 effective words) took 0.0s, 374276 effective words/s
+INFO - EPOCH 11: training on 4382 raw words (1587 effective words) took 0.0s, 439762 effective words/s
+INFO - EPOCH 12: training on 4382 raw words (1595 effective words) took 0.0s, 434893 effective words/s
+INFO - EPOCH 13: training on 4382 raw words (1586 effective words) took 0.0s, 419102 effective words/s
+INFO - EPOCH 14: training on 4382 raw words (1531 effective words) took 0.0s, 399299 effective words/s
+INFO - EPOCH 15: training on 4382 raw words (1566 effective words) took 0.0s, 528758 effective words/s
+INFO - EPOCH 16: training on 4382 raw words (1629 effective words) took 0.0s, 405534 effective words/s
+INFO - EPOCH 17: training on 4382 raw words (1621 effective words) took 0.0s, 427092 effective words/s
+INFO - EPOCH 18: training on 4382 raw words (1569 effective words) took 0.0s, 464782 effective words/s
+INFO - EPOCH 19: training on 4382 raw words (1574 effective words) took 0.0s, 425492 effective words/s
+INFO - EPOCH 20: training on 4382 raw words (1596 effective words) took 0.0s, 462414 effective words/s
+INFO - EPOCH 21: training on 4382 raw words (1600 effective words) took 0.0s, 443220 effective words/s
+INFO - EPOCH 22: training on 4382 raw words (1568 effective words) took 0.0s, 422027 effective words/s
+INFO - EPOCH 23: training on 4382 raw words (1597 effective words) took 0.0s, 436588 effective words/s
+INFO - EPOCH 24: training on 4382 raw words (1579 effective words) took 0.0s, 592000 effective words/s
+INFO - EPOCH 25: training on 4382 raw words (1540 effective words) took 0.0s, 379817 effective words/s
+INFO - EPOCH 26: training on 4382 raw words (1578 effective words) took 0.0s, 469694 effective words/s
+INFO - EPOCH 27: training on 4382 raw words (1522 effective words) took 0.0s, 430684 effective words/s
+INFO - EPOCH 28: training on 4382 raw words (1574 effective words) took 0.0s, 436834 effective words/s
+INFO - EPOCH 29: training on 4382 raw words (1580 effective words) took 0.0s, 426540 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 131460 raw words (47283 effective words) took 0.2s, 267538 effective words/s', 'datetime': '2024-01-01T12:55:14.843402', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T12:56:31.596984', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 2 words, keeping 2 word types
+INFO - PROGRESS: at sentence #4, processed 4 words, keeping 4 word types
+INFO - PROGRESS: at sentence #6, processed 105 words, keeping 21 word types
+INFO - PROGRESS: at sentence #8, processed 107 words, keeping 23 word types
+INFO - PROGRESS: at sentence #10, processed 208 words, keeping 26 word types
+INFO - PROGRESS: at sentence #12, processed 309 words, keeping 29 word types
+INFO - PROGRESS: at sentence #14, processed 311 words, keeping 31 word types
+INFO - PROGRESS: at sentence #16, processed 412 words, keeping 36 word types
+INFO - PROGRESS: at sentence #18, processed 414 words, keeping 38 word types
+INFO - PROGRESS: at sentence #20, processed 515 words, keeping 39 word types
+INFO - PROGRESS: at sentence #22, processed 616 words, keeping 40 word types
+INFO - PROGRESS: at sentence #24, processed 618 words, keeping 42 word types
+INFO - PROGRESS: at sentence #26, processed 719 words, keeping 43 word types
+INFO - PROGRESS: at sentence #28, processed 721 words, keeping 45 word types
+INFO - PROGRESS: at sentence #30, processed 822 words, keeping 48 word types
+INFO - PROGRESS: at sentence #32, processed 923 words, keeping 51 word types
+INFO - PROGRESS: at sentence #34, processed 925 words, keeping 53 word types
+INFO - PROGRESS: at sentence #36, processed 927 words, keeping 55 word types
+INFO - PROGRESS: at sentence #38, processed 1028 words, keeping 56 word types
+INFO - PROGRESS: at sentence #40, processed 1030 words, keeping 58 word types
+INFO - PROGRESS: at sentence #42, processed 1032 words, keeping 60 word types
+INFO - PROGRESS: at sentence #44, processed 1034 words, keeping 62 word types
+INFO - PROGRESS: at sentence #46, processed 1135 words, keeping 66 word types
+INFO - PROGRESS: at sentence #48, processed 1236 words, keeping 76 word types
+INFO - PROGRESS: at sentence #50, processed 1238 words, keeping 78 word types
+INFO - PROGRESS: at sentence #52, processed 1339 words, keeping 81 word types
+INFO - PROGRESS: at sentence #54, processed 1341 words, keeping 83 word types
+INFO - PROGRESS: at sentence #56, processed 1343 words, keeping 85 word types
+INFO - PROGRESS: at sentence #58, processed 1345 words, keeping 87 word types
+INFO - PROGRESS: at sentence #60, processed 1446 words, keeping 88 word types
+INFO - PROGRESS: at sentence #62, processed 1448 words, keeping 90 word types
+INFO - PROGRESS: at sentence #64, processed 1450 words, keeping 92 word types
+INFO - PROGRESS: at sentence #66, processed 1551 words, keeping 93 word types
+INFO - PROGRESS: at sentence #68, processed 1553 words, keeping 95 word types
+INFO - PROGRESS: at sentence #70, processed 1555 words, keeping 97 word types
+INFO - PROGRESS: at sentence #72, processed 1656 words, keeping 103 word types
+INFO - PROGRESS: at sentence #74, processed 1757 words, keeping 106 word types
+INFO - PROGRESS: at sentence #76, processed 1858 words, keeping 107 word types
+INFO - PROGRESS: at sentence #78, processed 1860 words, keeping 109 word types
+INFO - PROGRESS: at sentence #80, processed 1961 words, keeping 112 word types
+INFO - PROGRESS: at sentence #82, processed 1963 words, keeping 114 word types
+INFO - PROGRESS: at sentence #84, processed 2064 words, keeping 117 word types
+INFO - PROGRESS: at sentence #86, processed 2066 words, keeping 119 word types
+INFO - PROGRESS: at sentence #88, processed 2068 words, keeping 121 word types
+INFO - PROGRESS: at sentence #90, processed 2169 words, keeping 124 word types
+INFO - PROGRESS: at sentence #92, processed 2270 words, keeping 125 word types
+INFO - PROGRESS: at sentence #94, processed 2272 words, keeping 127 word types
+INFO - PROGRESS: at sentence #96, processed 2373 words, keeping 128 word types
+INFO - PROGRESS: at sentence #98, processed 2474 words, keeping 131 word types
+INFO - PROGRESS: at sentence #100, processed 2674 words, keeping 133 word types
+INFO - PROGRESS: at sentence #102, processed 2676 words, keeping 135 word types
+INFO - PROGRESS: at sentence #104, processed 2777 words, keeping 138 word types
+INFO - PROGRESS: at sentence #106, processed 2779 words, keeping 140 word types
+INFO - PROGRESS: at sentence #108, processed 2781 words, keeping 142 word types
+INFO - PROGRESS: at sentence #110, processed 2981 words, keeping 142 word types
+INFO - PROGRESS: at sentence #112, processed 2983 words, keeping 144 word types
+INFO - PROGRESS: at sentence #114, processed 2985 words, keeping 146 word types
+INFO - PROGRESS: at sentence #116, processed 3086 words, keeping 149 word types
+INFO - PROGRESS: at sentence #118, processed 3187 words, keeping 150 word types
+INFO - PROGRESS: at sentence #120, processed 3288 words, keeping 151 word types
+INFO - PROGRESS: at sentence #122, processed 3389 words, keeping 154 word types
+INFO - PROGRESS: at sentence #124, processed 3490 words, keeping 157 word types
+INFO - PROGRESS: at sentence #126, processed 3492 words, keeping 159 word types
+INFO - PROGRESS: at sentence #128, processed 3494 words, keeping 161 word types
+INFO - PROGRESS: at sentence #130, processed 3694 words, keeping 161 word types
+INFO - collected 164 word types from a corpus of 3795 raw words and 132 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 164 unique words (100.00% of original 164, drops 0)', 'datetime': '2024-01-01T12:56:31.613509', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 3795 word corpus (100.00% of original 3795, drops 0)', 'datetime': '2024-01-01T12:56:31.613831', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 164 items
+INFO - sample=0.001 downsamples 69 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1318.537086858604 word corpus (34.7%% of prior 3795)', 'datetime': '2024-01-01T12:56:31.615185', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 164 words and 100 dimensions: 213200 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T12:56:31.616768', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 164 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T12:56:31.617009', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 3795 raw words (1257 effective words) took 0.0s, 367095 effective words/s
+INFO - EPOCH 1: training on 3795 raw words (1297 effective words) took 0.0s, 460691 effective words/s
+INFO - EPOCH 2: training on 3795 raw words (1258 effective words) took 0.0s, 493788 effective words/s
+INFO - EPOCH 3: training on 3795 raw words (1344 effective words) took 0.0s, 351812 effective words/s
+INFO - EPOCH 4: training on 3795 raw words (1329 effective words) took 0.0s, 327315 effective words/s
+INFO - EPOCH 5: training on 3795 raw words (1325 effective words) took 0.0s, 371890 effective words/s
+INFO - EPOCH 6: training on 3795 raw words (1356 effective words) took 0.0s, 396366 effective words/s
+INFO - EPOCH 7: training on 3795 raw words (1315 effective words) took 0.0s, 387894 effective words/s
+INFO - EPOCH 8: training on 3795 raw words (1301 effective words) took 0.0s, 391851 effective words/s
+INFO - EPOCH 9: training on 3795 raw words (1329 effective words) took 0.0s, 405483 effective words/s
+INFO - EPOCH 10: training on 3795 raw words (1293 effective words) took 0.0s, 631571 effective words/s
+INFO - EPOCH 11: training on 3795 raw words (1353 effective words) took 0.0s, 373850 effective words/s
+INFO - EPOCH 12: training on 3795 raw words (1369 effective words) took 0.0s, 423148 effective words/s
+INFO - EPOCH 13: training on 3795 raw words (1289 effective words) took 0.0s, 420802 effective words/s
+INFO - EPOCH 14: training on 3795 raw words (1301 effective words) took 0.0s, 419945 effective words/s
+INFO - EPOCH 15: training on 3795 raw words (1323 effective words) took 0.0s, 419999 effective words/s
+INFO - EPOCH 16: training on 3795 raw words (1297 effective words) took 0.0s, 441315 effective words/s
+INFO - EPOCH 17: training on 3795 raw words (1301 effective words) took 0.0s, 432030 effective words/s
+INFO - EPOCH 18: training on 3795 raw words (1334 effective words) took 0.0s, 425135 effective words/s
+INFO - EPOCH 19: training on 3795 raw words (1308 effective words) took 0.0s, 438786 effective words/s
+INFO - EPOCH 20: training on 3795 raw words (1283 effective words) took 0.0s, 418488 effective words/s
+INFO - EPOCH 21: training on 3795 raw words (1343 effective words) took 0.0s, 446332 effective words/s
+INFO - EPOCH 22: training on 3795 raw words (1356 effective words) took 0.0s, 447584 effective words/s
+INFO - EPOCH 23: training on 3795 raw words (1336 effective words) took 0.0s, 428434 effective words/s
+INFO - EPOCH 24: training on 3795 raw words (1331 effective words) took 0.0s, 640755 effective words/s
+INFO - EPOCH 25: training on 3795 raw words (1307 effective words) took 0.0s, 439653 effective words/s
+INFO - EPOCH 26: training on 3795 raw words (1230 effective words) took 0.0s, 444977 effective words/s
+INFO - EPOCH 27: training on 3795 raw words (1314 effective words) took 0.0s, 631109 effective words/s
+INFO - EPOCH 28: training on 3795 raw words (1320 effective words) took 0.0s, 459843 effective words/s
+INFO - EPOCH 29: training on 3795 raw words (1331 effective words) took 0.0s, 436295 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 113850 raw words (39430 effective words) took 0.2s, 254456 effective words/s', 'datetime': '2024-01-01T12:56:31.772149', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T13:01:30.494717', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 2 words, keeping 2 word types
+INFO - PROGRESS: at sentence #4, processed 4 words, keeping 4 word types
+INFO - PROGRESS: at sentence #6, processed 6 words, keeping 6 word types
+INFO - PROGRESS: at sentence #8, processed 107 words, keeping 38 word types
+INFO - PROGRESS: at sentence #10, processed 208 words, keeping 41 word types
+INFO - PROGRESS: at sentence #12, processed 309 words, keeping 50 word types
+INFO - PROGRESS: at sentence #14, processed 311 words, keeping 52 word types
+INFO - PROGRESS: at sentence #16, processed 313 words, keeping 54 word types
+INFO - PROGRESS: at sentence #18, processed 414 words, keeping 60 word types
+INFO - PROGRESS: at sentence #20, processed 416 words, keeping 62 word types
+INFO - PROGRESS: at sentence #22, processed 616 words, keeping 69 word types
+INFO - PROGRESS: at sentence #24, processed 618 words, keeping 71 word types
+INFO - PROGRESS: at sentence #26, processed 620 words, keeping 73 word types
+INFO - PROGRESS: at sentence #28, processed 622 words, keeping 75 word types
+INFO - PROGRESS: at sentence #30, processed 723 words, keeping 83 word types
+INFO - PROGRESS: at sentence #32, processed 725 words, keeping 85 word types
+INFO - PROGRESS: at sentence #34, processed 826 words, keeping 88 word types
+INFO - PROGRESS: at sentence #36, processed 1026 words, keeping 91 word types
+INFO - PROGRESS: at sentence #38, processed 1028 words, keeping 93 word types
+INFO - PROGRESS: at sentence #40, processed 1030 words, keeping 95 word types
+INFO - PROGRESS: at sentence #42, processed 1032 words, keeping 97 word types
+INFO - PROGRESS: at sentence #44, processed 1034 words, keeping 99 word types
+INFO - PROGRESS: at sentence #46, processed 1135 words, keeping 100 word types
+INFO - PROGRESS: at sentence #48, processed 1137 words, keeping 102 word types
+INFO - PROGRESS: at sentence #50, processed 1139 words, keeping 104 word types
+INFO - PROGRESS: at sentence #52, processed 1240 words, keeping 105 word types
+INFO - PROGRESS: at sentence #54, processed 1341 words, keeping 106 word types
+INFO - PROGRESS: at sentence #56, processed 1442 words, keeping 107 word types
+INFO - PROGRESS: at sentence #58, processed 1444 words, keeping 109 word types
+INFO - PROGRESS: at sentence #60, processed 1545 words, keeping 112 word types
+INFO - PROGRESS: at sentence #62, processed 1745 words, keeping 112 word types
+INFO - PROGRESS: at sentence #64, processed 1945 words, keeping 112 word types
+INFO - PROGRESS: at sentence #66, processed 2145 words, keeping 114 word types
+INFO - PROGRESS: at sentence #68, processed 2246 words, keeping 117 word types
+INFO - PROGRESS: at sentence #70, processed 2347 words, keeping 120 word types
+INFO - PROGRESS: at sentence #72, processed 2349 words, keeping 122 word types
+INFO - PROGRESS: at sentence #74, processed 2450 words, keeping 123 word types
+INFO - PROGRESS: at sentence #76, processed 2452 words, keeping 125 word types
+INFO - PROGRESS: at sentence #78, processed 2553 words, keeping 126 word types
+INFO - PROGRESS: at sentence #80, processed 2555 words, keeping 128 word types
+INFO - PROGRESS: at sentence #82, processed 2557 words, keeping 130 word types
+INFO - PROGRESS: at sentence #84, processed 2658 words, keeping 131 word types
+INFO - PROGRESS: at sentence #86, processed 2759 words, keeping 132 word types
+INFO - PROGRESS: at sentence #88, processed 2860 words, keeping 133 word types
+INFO - PROGRESS: at sentence #90, processed 2862 words, keeping 135 word types
+INFO - PROGRESS: at sentence #92, processed 2864 words, keeping 137 word types
+INFO - PROGRESS: at sentence #94, processed 2965 words, keeping 138 word types
+INFO - PROGRESS: at sentence #96, processed 2967 words, keeping 140 word types
+INFO - PROGRESS: at sentence #98, processed 2969 words, keeping 142 word types
+INFO - PROGRESS: at sentence #100, processed 2971 words, keeping 144 word types
+INFO - PROGRESS: at sentence #102, processed 2973 words, keeping 146 word types
+INFO - PROGRESS: at sentence #104, processed 3074 words, keeping 147 word types
+INFO - PROGRESS: at sentence #106, processed 3076 words, keeping 149 word types
+INFO - PROGRESS: at sentence #108, processed 3177 words, keeping 150 word types
+INFO - PROGRESS: at sentence #110, processed 3179 words, keeping 152 word types
+INFO - PROGRESS: at sentence #112, processed 3181 words, keeping 154 word types
+INFO - PROGRESS: at sentence #114, processed 3183 words, keeping 156 word types
+INFO - PROGRESS: at sentence #116, processed 3185 words, keeping 158 word types
+INFO - PROGRESS: at sentence #118, processed 3187 words, keeping 160 word types
+INFO - PROGRESS: at sentence #120, processed 3189 words, keeping 162 word types
+INFO - PROGRESS: at sentence #122, processed 3389 words, keeping 162 word types
+INFO - PROGRESS: at sentence #124, processed 3391 words, keeping 164 word types
+INFO - PROGRESS: at sentence #126, processed 3393 words, keeping 166 word types
+INFO - PROGRESS: at sentence #128, processed 3494 words, keeping 167 word types
+INFO - PROGRESS: at sentence #130, processed 3496 words, keeping 169 word types
+INFO - PROGRESS: at sentence #132, processed 3498 words, keeping 171 word types
+INFO - PROGRESS: at sentence #134, processed 3500 words, keeping 173 word types
+INFO - PROGRESS: at sentence #136, processed 3601 words, keeping 174 word types
+INFO - PROGRESS: at sentence #138, processed 3702 words, keeping 175 word types
+INFO - PROGRESS: at sentence #140, processed 3704 words, keeping 177 word types
+INFO - PROGRESS: at sentence #142, processed 3706 words, keeping 179 word types
+INFO - PROGRESS: at sentence #144, processed 3708 words, keeping 181 word types
+INFO - PROGRESS: at sentence #146, processed 3710 words, keeping 183 word types
+INFO - PROGRESS: at sentence #148, processed 3712 words, keeping 185 word types
+INFO - PROGRESS: at sentence #150, processed 3813 words, keeping 186 word types
+INFO - PROGRESS: at sentence #152, processed 3914 words, keeping 187 word types
+INFO - PROGRESS: at sentence #154, processed 4015 words, keeping 188 word types
+INFO - PROGRESS: at sentence #156, processed 4116 words, keeping 189 word types
+INFO - PROGRESS: at sentence #158, processed 4118 words, keeping 191 word types
+INFO - PROGRESS: at sentence #160, processed 4219 words, keeping 192 word types
+INFO - PROGRESS: at sentence #162, processed 4221 words, keeping 194 word types
+INFO - PROGRESS: at sentence #164, processed 4223 words, keeping 196 word types
+INFO - PROGRESS: at sentence #166, processed 4423 words, keeping 196 word types
+INFO - PROGRESS: at sentence #168, processed 4425 words, keeping 198 word types
+INFO - collected 198 word types from a corpus of 4625 raw words and 170 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 198 unique words (100.00% of original 198, drops 0)', 'datetime': '2024-01-01T13:01:30.519724', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 4625 word corpus (100.00% of original 4625, drops 0)', 'datetime': '2024-01-01T13:01:30.519947', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 198 items
+INFO - sample=0.001 downsamples 73 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1593.3515334962353 word corpus (34.5%% of prior 4625)', 'datetime': '2024-01-01T13:01:30.521070', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 198 words and 100 dimensions: 257400 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T13:01:30.522688', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 198 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T13:01:30.522929', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 4625 raw words (1547 effective words) took 0.0s, 376947 effective words/s
+INFO - EPOCH 1: training on 4625 raw words (1567 effective words) took 0.0s, 375132 effective words/s
+INFO - EPOCH 2: training on 4625 raw words (1620 effective words) took 0.0s, 490620 effective words/s
+INFO - EPOCH 3: training on 4625 raw words (1562 effective words) took 0.0s, 414985 effective words/s
+INFO - EPOCH 4: training on 4625 raw words (1602 effective words) took 0.0s, 415318 effective words/s
+INFO - EPOCH 5: training on 4625 raw words (1667 effective words) took 0.0s, 464154 effective words/s
+INFO - EPOCH 6: training on 4625 raw words (1545 effective words) took 0.0s, 379747 effective words/s
+INFO - EPOCH 7: training on 4625 raw words (1603 effective words) took 0.0s, 391764 effective words/s
+INFO - EPOCH 8: training on 4625 raw words (1645 effective words) took 0.0s, 396781 effective words/s
+INFO - EPOCH 9: training on 4625 raw words (1566 effective words) took 0.0s, 399550 effective words/s
+INFO - EPOCH 10: training on 4625 raw words (1588 effective words) took 0.0s, 408918 effective words/s
+INFO - EPOCH 11: training on 4625 raw words (1616 effective words) took 0.0s, 527251 effective words/s
+INFO - EPOCH 12: training on 4625 raw words (1611 effective words) took 0.0s, 393430 effective words/s
+INFO - EPOCH 13: training on 4625 raw words (1555 effective words) took 0.0s, 596381 effective words/s
+INFO - EPOCH 14: training on 4625 raw words (1611 effective words) took 0.0s, 544402 effective words/s
+INFO - EPOCH 15: training on 4625 raw words (1561 effective words) took 0.0s, 403654 effective words/s
+INFO - EPOCH 16: training on 4625 raw words (1590 effective words) took 0.0s, 413398 effective words/s
+INFO - EPOCH 17: training on 4625 raw words (1628 effective words) took 0.0s, 400181 effective words/s
+INFO - EPOCH 18: training on 4625 raw words (1585 effective words) took 0.0s, 406113 effective words/s
+INFO - EPOCH 19: training on 4625 raw words (1648 effective words) took 0.0s, 415585 effective words/s
+INFO - EPOCH 20: training on 4625 raw words (1559 effective words) took 0.0s, 408129 effective words/s
+INFO - EPOCH 21: training on 4625 raw words (1592 effective words) took 0.0s, 440658 effective words/s
+INFO - EPOCH 22: training on 4625 raw words (1620 effective words) took 0.0s, 399258 effective words/s
+INFO - EPOCH 23: training on 4625 raw words (1620 effective words) took 0.0s, 457109 effective words/s
+INFO - EPOCH 24: training on 4625 raw words (1557 effective words) took 0.0s, 437149 effective words/s
+INFO - EPOCH 25: training on 4625 raw words (1578 effective words) took 0.0s, 538750 effective words/s
+INFO - EPOCH 26: training on 4625 raw words (1566 effective words) took 0.0s, 375232 effective words/s
+INFO - EPOCH 27: training on 4625 raw words (1579 effective words) took 0.0s, 399999 effective words/s
+INFO - EPOCH 28: training on 4625 raw words (1581 effective words) took 0.0s, 545162 effective words/s
+INFO - EPOCH 29: training on 4625 raw words (1595 effective words) took 0.0s, 444969 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 138750 raw words (47764 effective words) took 0.2s, 257949 effective words/s', 'datetime': '2024-01-01T13:01:30.708235', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T13:02:08.280196', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 2 words, keeping 2 word types
+INFO - PROGRESS: at sentence #4, processed 202 words, keeping 16 word types
+INFO - PROGRESS: at sentence #6, processed 303 words, keeping 20 word types
+INFO - PROGRESS: at sentence #8, processed 305 words, keeping 22 word types
+INFO - PROGRESS: at sentence #10, processed 307 words, keeping 24 word types
+INFO - PROGRESS: at sentence #12, processed 309 words, keeping 26 word types
+INFO - PROGRESS: at sentence #14, processed 410 words, keeping 27 word types
+INFO - PROGRESS: at sentence #16, processed 412 words, keeping 29 word types
+INFO - PROGRESS: at sentence #18, processed 414 words, keeping 31 word types
+INFO - PROGRESS: at sentence #20, processed 515 words, keeping 35 word types
+INFO - PROGRESS: at sentence #22, processed 517 words, keeping 37 word types
+INFO - PROGRESS: at sentence #24, processed 618 words, keeping 41 word types
+INFO - PROGRESS: at sentence #26, processed 719 words, keeping 44 word types
+INFO - PROGRESS: at sentence #28, processed 721 words, keeping 46 word types
+INFO - PROGRESS: at sentence #30, processed 723 words, keeping 48 word types
+INFO - PROGRESS: at sentence #32, processed 824 words, keeping 51 word types
+INFO - PROGRESS: at sentence #34, processed 826 words, keeping 53 word types
+INFO - PROGRESS: at sentence #36, processed 828 words, keeping 55 word types
+INFO - PROGRESS: at sentence #38, processed 929 words, keeping 56 word types
+INFO - PROGRESS: at sentence #40, processed 1030 words, keeping 60 word types
+INFO - PROGRESS: at sentence #42, processed 1032 words, keeping 62 word types
+INFO - PROGRESS: at sentence #44, processed 1034 words, keeping 64 word types
+INFO - PROGRESS: at sentence #46, processed 1036 words, keeping 66 word types
+INFO - PROGRESS: at sentence #48, processed 1038 words, keeping 68 word types
+INFO - PROGRESS: at sentence #50, processed 1139 words, keeping 71 word types
+INFO - PROGRESS: at sentence #52, processed 1141 words, keeping 73 word types
+INFO - PROGRESS: at sentence #54, processed 1143 words, keeping 75 word types
+INFO - PROGRESS: at sentence #56, processed 1145 words, keeping 77 word types
+INFO - PROGRESS: at sentence #58, processed 1246 words, keeping 80 word types
+INFO - PROGRESS: at sentence #60, processed 1347 words, keeping 83 word types
+INFO - PROGRESS: at sentence #62, processed 1349 words, keeping 85 word types
+INFO - PROGRESS: at sentence #64, processed 1351 words, keeping 87 word types
+INFO - PROGRESS: at sentence #66, processed 1353 words, keeping 89 word types
+INFO - PROGRESS: at sentence #68, processed 1355 words, keeping 91 word types
+INFO - PROGRESS: at sentence #70, processed 1357 words, keeping 93 word types
+INFO - PROGRESS: at sentence #72, processed 1557 words, keeping 93 word types
+INFO - PROGRESS: at sentence #74, processed 1559 words, keeping 95 word types
+INFO - PROGRESS: at sentence #76, processed 1660 words, keeping 99 word types
+INFO - PROGRESS: at sentence #78, processed 1761 words, keeping 102 word types
+INFO - PROGRESS: at sentence #80, processed 1961 words, keeping 102 word types
+INFO - PROGRESS: at sentence #82, processed 1963 words, keeping 104 word types
+INFO - PROGRESS: at sentence #84, processed 1965 words, keeping 106 word types
+INFO - PROGRESS: at sentence #86, processed 1967 words, keeping 108 word types
+INFO - PROGRESS: at sentence #88, processed 1969 words, keeping 110 word types
+INFO - PROGRESS: at sentence #90, processed 1971 words, keeping 112 word types
+INFO - PROGRESS: at sentence #92, processed 2072 words, keeping 113 word types
+INFO - PROGRESS: at sentence #94, processed 2173 words, keeping 114 word types
+INFO - PROGRESS: at sentence #96, processed 2175 words, keeping 116 word types
+INFO - PROGRESS: at sentence #98, processed 2177 words, keeping 118 word types
+INFO - PROGRESS: at sentence #100, processed 2179 words, keeping 120 word types
+INFO - PROGRESS: at sentence #102, processed 2280 words, keeping 121 word types
+INFO - PROGRESS: at sentence #104, processed 2282 words, keeping 123 word types
+INFO - PROGRESS: at sentence #106, processed 2383 words, keeping 128 word types
+INFO - PROGRESS: at sentence #108, processed 2385 words, keeping 130 word types
+INFO - PROGRESS: at sentence #110, processed 2486 words, keeping 131 word types
+INFO - collected 132 word types from a corpus of 2487 raw words and 111 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 132 unique words (100.00% of original 132, drops 0)', 'datetime': '2024-01-01T13:02:08.298773', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 2487 word corpus (100.00% of original 2487, drops 0)', 'datetime': '2024-01-01T13:02:08.299113', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 132 items
+INFO - sample=0.001 downsamples 45 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 703.705830826845 word corpus (28.3%% of prior 2487)', 'datetime': '2024-01-01T13:02:08.300476', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 132 words and 100 dimensions: 171600 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T13:02:08.301976', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 132 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T13:02:08.302250', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 2487 raw words (677 effective words) took 0.0s, 355380 effective words/s
+INFO - EPOCH 1: training on 2487 raw words (710 effective words) took 0.0s, 367650 effective words/s
+INFO - EPOCH 2: training on 2487 raw words (709 effective words) took 0.0s, 274455 effective words/s
+INFO - EPOCH 3: training on 2487 raw words (703 effective words) took 0.0s, 392438 effective words/s
+INFO - EPOCH 4: training on 2487 raw words (697 effective words) took 0.0s, 318373 effective words/s
+INFO - EPOCH 5: training on 2487 raw words (719 effective words) took 0.0s, 360807 effective words/s
+INFO - EPOCH 6: training on 2487 raw words (708 effective words) took 0.0s, 313806 effective words/s
+INFO - EPOCH 7: training on 2487 raw words (716 effective words) took 0.0s, 368800 effective words/s
+INFO - EPOCH 8: training on 2487 raw words (718 effective words) took 0.0s, 470453 effective words/s
+INFO - EPOCH 9: training on 2487 raw words (689 effective words) took 0.0s, 399585 effective words/s
+INFO - EPOCH 10: training on 2487 raw words (679 effective words) took 0.0s, 437309 effective words/s
+INFO - EPOCH 11: training on 2487 raw words (710 effective words) took 0.0s, 316513 effective words/s
+INFO - EPOCH 12: training on 2487 raw words (713 effective words) took 0.0s, 325589 effective words/s
+INFO - EPOCH 13: training on 2487 raw words (687 effective words) took 0.0s, 627087 effective words/s
+INFO - EPOCH 14: training on 2487 raw words (695 effective words) took 0.0s, 426989 effective words/s
+INFO - EPOCH 15: training on 2487 raw words (706 effective words) took 0.0s, 342161 effective words/s
+INFO - EPOCH 16: training on 2487 raw words (698 effective words) took 0.0s, 522134 effective words/s
+INFO - EPOCH 17: training on 2487 raw words (673 effective words) took 0.0s, 338532 effective words/s
+INFO - EPOCH 18: training on 2487 raw words (693 effective words) took 0.0s, 372833 effective words/s
+INFO - EPOCH 19: training on 2487 raw words (704 effective words) took 0.0s, 400245 effective words/s
+INFO - EPOCH 20: training on 2487 raw words (727 effective words) took 0.0s, 400751 effective words/s
+INFO - EPOCH 21: training on 2487 raw words (690 effective words) took 0.0s, 331524 effective words/s
+INFO - EPOCH 22: training on 2487 raw words (718 effective words) took 0.0s, 329399 effective words/s
+INFO - EPOCH 23: training on 2487 raw words (697 effective words) took 0.0s, 319138 effective words/s
+INFO - EPOCH 24: training on 2487 raw words (707 effective words) took 0.0s, 411380 effective words/s
+INFO - EPOCH 25: training on 2487 raw words (675 effective words) took 0.0s, 327584 effective words/s
+INFO - EPOCH 26: training on 2487 raw words (700 effective words) took 0.0s, 410810 effective words/s
+INFO - EPOCH 27: training on 2487 raw words (727 effective words) took 0.0s, 338534 effective words/s
+INFO - EPOCH 28: training on 2487 raw words (679 effective words) took 0.0s, 429462 effective words/s
+INFO - EPOCH 29: training on 2487 raw words (714 effective words) took 0.0s, 419492 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 74610 raw words (21038 effective words) took 0.1s, 174918 effective words/s', 'datetime': '2024-01-01T13:02:08.422743', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+WARNING - using automatically assigned random_state=1859864002
+INFO - done splitting triples to groups of sizes [17, 25, 26]
+WARNING - No random seed is specified. Setting to 3416991826.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.03s seconds
+WARNING - using automatically assigned random_state=2555071022
+INFO - done splitting triples to groups of sizes [17, 25, 26]
+WARNING - No random seed is specified. Setting to 732217893.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.03s seconds
+WARNING - using automatically assigned random_state=4046175473
+INFO - done splitting triples to groups of sizes [17, 25, 26]
+WARNING - No random seed is specified. Setting to 435717367.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+INFO - Currently automatic memory optimization only supports GPUs, but you're using a CPU. Therefore, the batch_size will be set to the default value.
+INFO - No evaluation batch_size provided. Setting batch_size to '32'.
+INFO - Evaluation took 0.02s seconds
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T13:09:26.895098', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 2 words, keeping 2 word types
+INFO - PROGRESS: at sentence #4, processed 4 words, keeping 4 word types
+INFO - PROGRESS: at sentence #6, processed 105 words, keeping 31 word types
+INFO - PROGRESS: at sentence #8, processed 107 words, keeping 33 word types
+INFO - PROGRESS: at sentence #10, processed 109 words, keeping 35 word types
+INFO - PROGRESS: at sentence #12, processed 210 words, keeping 44 word types
+INFO - PROGRESS: at sentence #14, processed 311 words, keeping 47 word types
+INFO - PROGRESS: at sentence #16, processed 313 words, keeping 49 word types
+INFO - PROGRESS: at sentence #18, processed 513 words, keeping 52 word types
+INFO - PROGRESS: at sentence #20, processed 515 words, keeping 54 word types
+INFO - PROGRESS: at sentence #22, processed 517 words, keeping 56 word types
+INFO - PROGRESS: at sentence #24, processed 519 words, keeping 58 word types
+INFO - PROGRESS: at sentence #26, processed 620 words, keeping 60 word types
+INFO - PROGRESS: at sentence #28, processed 622 words, keeping 62 word types
+INFO - PROGRESS: at sentence #30, processed 624 words, keeping 64 word types
+INFO - PROGRESS: at sentence #32, processed 626 words, keeping 66 word types
+INFO - PROGRESS: at sentence #34, processed 628 words, keeping 68 word types
+INFO - PROGRESS: at sentence #36, processed 828 words, keeping 72 word types
+INFO - PROGRESS: at sentence #38, processed 830 words, keeping 74 word types
+INFO - PROGRESS: at sentence #40, processed 832 words, keeping 76 word types
+INFO - PROGRESS: at sentence #42, processed 933 words, keeping 77 word types
+INFO - PROGRESS: at sentence #44, processed 935 words, keeping 79 word types
+INFO - PROGRESS: at sentence #46, processed 937 words, keeping 81 word types
+INFO - PROGRESS: at sentence #48, processed 939 words, keeping 83 word types
+INFO - PROGRESS: at sentence #50, processed 941 words, keeping 85 word types
+INFO - PROGRESS: at sentence #52, processed 943 words, keeping 87 word types
+INFO - PROGRESS: at sentence #54, processed 1044 words, keeping 88 word types
+INFO - PROGRESS: at sentence #56, processed 1046 words, keeping 90 word types
+INFO - PROGRESS: at sentence #58, processed 1048 words, keeping 92 word types
+INFO - PROGRESS: at sentence #60, processed 1149 words, keeping 101 word types
+INFO - PROGRESS: at sentence #62, processed 1151 words, keeping 103 word types
+INFO - PROGRESS: at sentence #64, processed 1252 words, keeping 104 word types
+INFO - PROGRESS: at sentence #66, processed 1254 words, keeping 106 word types
+INFO - PROGRESS: at sentence #68, processed 1256 words, keeping 108 word types
+INFO - PROGRESS: at sentence #70, processed 1357 words, keeping 111 word types
+INFO - PROGRESS: at sentence #72, processed 1359 words, keeping 113 word types
+INFO - PROGRESS: at sentence #74, processed 1361 words, keeping 115 word types
+INFO - PROGRESS: at sentence #76, processed 1462 words, keeping 119 word types
+INFO - PROGRESS: at sentence #78, processed 1563 words, keeping 120 word types
+INFO - PROGRESS: at sentence #80, processed 1565 words, keeping 122 word types
+INFO - PROGRESS: at sentence #82, processed 1567 words, keeping 124 word types
+INFO - PROGRESS: at sentence #84, processed 1569 words, keeping 126 word types
+INFO - PROGRESS: at sentence #86, processed 1571 words, keeping 128 word types
+INFO - PROGRESS: at sentence #88, processed 1573 words, keeping 130 word types
+INFO - PROGRESS: at sentence #90, processed 1674 words, keeping 131 word types
+INFO - PROGRESS: at sentence #92, processed 1775 words, keeping 132 word types
+INFO - PROGRESS: at sentence #94, processed 1876 words, keeping 133 word types
+INFO - PROGRESS: at sentence #96, processed 1878 words, keeping 135 word types
+INFO - PROGRESS: at sentence #98, processed 1979 words, keeping 136 word types
+INFO - PROGRESS: at sentence #100, processed 2179 words, keeping 136 word types
+INFO - PROGRESS: at sentence #102, processed 2181 words, keeping 138 word types
+INFO - PROGRESS: at sentence #104, processed 2183 words, keeping 140 word types
+INFO - PROGRESS: at sentence #106, processed 2185 words, keeping 142 word types
+INFO - PROGRESS: at sentence #108, processed 2286 words, keeping 143 word types
+INFO - PROGRESS: at sentence #110, processed 2288 words, keeping 145 word types
+INFO - PROGRESS: at sentence #112, processed 2389 words, keeping 148 word types
+INFO - PROGRESS: at sentence #114, processed 2391 words, keeping 150 word types
+INFO - PROGRESS: at sentence #116, processed 2393 words, keeping 152 word types
+INFO - PROGRESS: at sentence #118, processed 2395 words, keeping 154 word types
+INFO - PROGRESS: at sentence #120, processed 2496 words, keeping 155 word types
+INFO - PROGRESS: at sentence #122, processed 2498 words, keeping 157 word types
+INFO - PROGRESS: at sentence #124, processed 2599 words, keeping 160 word types
+INFO - PROGRESS: at sentence #126, processed 2601 words, keeping 162 word types
+INFO - PROGRESS: at sentence #128, processed 2702 words, keeping 163 word types
+INFO - PROGRESS: at sentence #130, processed 2803 words, keeping 164 word types
+INFO - PROGRESS: at sentence #132, processed 2805 words, keeping 166 word types
+INFO - PROGRESS: at sentence #134, processed 2807 words, keeping 168 word types
+INFO - PROGRESS: at sentence #136, processed 2809 words, keeping 170 word types
+INFO - PROGRESS: at sentence #138, processed 2910 words, keeping 171 word types
+INFO - PROGRESS: at sentence #140, processed 3011 words, keeping 172 word types
+INFO - PROGRESS: at sentence #142, processed 3013 words, keeping 174 word types
+INFO - PROGRESS: at sentence #144, processed 3114 words, keeping 175 word types
+INFO - PROGRESS: at sentence #146, processed 3116 words, keeping 177 word types
+INFO - PROGRESS: at sentence #148, processed 3217 words, keeping 178 word types
+INFO - PROGRESS: at sentence #150, processed 3318 words, keeping 179 word types
+INFO - PROGRESS: at sentence #152, processed 3320 words, keeping 181 word types
+INFO - PROGRESS: at sentence #154, processed 3322 words, keeping 183 word types
+INFO - PROGRESS: at sentence #156, processed 3324 words, keeping 185 word types
+INFO - PROGRESS: at sentence #158, processed 3326 words, keeping 187 word types
+INFO - PROGRESS: at sentence #160, processed 3427 words, keeping 188 word types
+INFO - PROGRESS: at sentence #162, processed 3429 words, keeping 190 word types
+INFO - collected 190 word types from a corpus of 3629 raw words and 164 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 190 unique words (100.00% of original 190, drops 0)', 'datetime': '2024-01-01T13:09:26.913938', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 3629 word corpus (100.00% of original 3629, drops 0)', 'datetime': '2024-01-01T13:09:26.914203', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 190 items
+INFO - sample=0.001 downsamples 61 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1187.3781228834855 word corpus (32.7%% of prior 3629)', 'datetime': '2024-01-01T13:09:26.915465', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 190 words and 100 dimensions: 247000 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T13:09:26.917226', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 190 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T13:09:26.917471', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 3629 raw words (1131 effective words) took 0.0s, 360659 effective words/s
+INFO - EPOCH 1: training on 3629 raw words (1251 effective words) took 0.0s, 385238 effective words/s
+INFO - EPOCH 2: training on 3629 raw words (1269 effective words) took 0.0s, 377446 effective words/s
+INFO - EPOCH 3: training on 3629 raw words (1218 effective words) took 0.0s, 394631 effective words/s
+INFO - EPOCH 4: training on 3629 raw words (1155 effective words) took 0.0s, 358372 effective words/s
+INFO - EPOCH 5: training on 3629 raw words (1199 effective words) took 0.0s, 506999 effective words/s
+INFO - EPOCH 6: training on 3629 raw words (1176 effective words) took 0.0s, 391807 effective words/s
+INFO - EPOCH 7: training on 3629 raw words (1178 effective words) took 0.0s, 402779 effective words/s
+INFO - EPOCH 8: training on 3629 raw words (1208 effective words) took 0.0s, 504642 effective words/s
+INFO - EPOCH 9: training on 3629 raw words (1197 effective words) took 0.0s, 427360 effective words/s
+INFO - EPOCH 10: training on 3629 raw words (1159 effective words) took 0.0s, 536771 effective words/s
+INFO - EPOCH 11: training on 3629 raw words (1222 effective words) took 0.0s, 408335 effective words/s
+INFO - EPOCH 12: training on 3629 raw words (1191 effective words) took 0.0s, 400171 effective words/s
+INFO - EPOCH 13: training on 3629 raw words (1189 effective words) took 0.0s, 420224 effective words/s
+INFO - EPOCH 14: training on 3629 raw words (1194 effective words) took 0.0s, 439095 effective words/s
+INFO - EPOCH 15: training on 3629 raw words (1235 effective words) took 0.0s, 416213 effective words/s
+INFO - EPOCH 16: training on 3629 raw words (1157 effective words) took 0.0s, 411346 effective words/s
+INFO - EPOCH 17: training on 3629 raw words (1217 effective words) took 0.0s, 427633 effective words/s
+INFO - EPOCH 18: training on 3629 raw words (1218 effective words) took 0.0s, 424379 effective words/s
+INFO - EPOCH 19: training on 3629 raw words (1184 effective words) took 0.0s, 424287 effective words/s
+INFO - EPOCH 20: training on 3629 raw words (1154 effective words) took 0.0s, 427308 effective words/s
+INFO - EPOCH 21: training on 3629 raw words (1201 effective words) took 0.0s, 422946 effective words/s
+INFO - EPOCH 22: training on 3629 raw words (1169 effective words) took 0.0s, 384705 effective words/s
+INFO - EPOCH 23: training on 3629 raw words (1153 effective words) took 0.0s, 419250 effective words/s
+INFO - EPOCH 24: training on 3629 raw words (1209 effective words) took 0.0s, 435572 effective words/s
+INFO - EPOCH 25: training on 3629 raw words (1194 effective words) took 0.0s, 409122 effective words/s
+INFO - EPOCH 26: training on 3629 raw words (1174 effective words) took 0.0s, 417868 effective words/s
+INFO - EPOCH 27: training on 3629 raw words (1197 effective words) took 0.0s, 369201 effective words/s
+INFO - EPOCH 28: training on 3629 raw words (1193 effective words) took 0.0s, 356465 effective words/s
+INFO - EPOCH 29: training on 3629 raw words (1174 effective words) took 0.0s, 410835 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 108870 raw words (35766 effective words) took 0.1s, 243448 effective words/s', 'datetime': '2024-01-01T13:09:27.064608', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T13:11:56.900868', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 2 words, keeping 2 word types
+INFO - PROGRESS: at sentence #4, processed 4 words, keeping 4 word types
+INFO - PROGRESS: at sentence #6, processed 6 words, keeping 6 word types
+INFO - PROGRESS: at sentence #8, processed 8 words, keeping 8 word types
+INFO - PROGRESS: at sentence #10, processed 109 words, keeping 33 word types
+INFO - PROGRESS: at sentence #12, processed 111 words, keeping 35 word types
+INFO - PROGRESS: at sentence #14, processed 113 words, keeping 37 word types
+INFO - PROGRESS: at sentence #16, processed 115 words, keeping 39 word types
+INFO - PROGRESS: at sentence #18, processed 117 words, keeping 41 word types
+INFO - PROGRESS: at sentence #20, processed 119 words, keeping 43 word types
+INFO - PROGRESS: at sentence #22, processed 121 words, keeping 45 word types
+INFO - PROGRESS: at sentence #24, processed 123 words, keeping 47 word types
+INFO - PROGRESS: at sentence #26, processed 125 words, keeping 49 word types
+INFO - PROGRESS: at sentence #28, processed 127 words, keeping 51 word types
+INFO - PROGRESS: at sentence #30, processed 129 words, keeping 53 word types
+INFO - PROGRESS: at sentence #32, processed 230 words, keeping 56 word types
+INFO - PROGRESS: at sentence #34, processed 232 words, keeping 58 word types
+INFO - PROGRESS: at sentence #36, processed 333 words, keeping 62 word types
+INFO - PROGRESS: at sentence #38, processed 335 words, keeping 64 word types
+INFO - PROGRESS: at sentence #40, processed 436 words, keeping 66 word types
+INFO - PROGRESS: at sentence #42, processed 438 words, keeping 68 word types
+INFO - PROGRESS: at sentence #44, processed 440 words, keeping 70 word types
+INFO - PROGRESS: at sentence #46, processed 442 words, keeping 72 word types
+INFO - PROGRESS: at sentence #48, processed 543 words, keeping 78 word types
+INFO - PROGRESS: at sentence #50, processed 644 words, keeping 81 word types
+INFO - PROGRESS: at sentence #52, processed 745 words, keeping 84 word types
+INFO - PROGRESS: at sentence #54, processed 747 words, keeping 86 word types
+INFO - PROGRESS: at sentence #56, processed 749 words, keeping 88 word types
+INFO - PROGRESS: at sentence #58, processed 751 words, keeping 90 word types
+INFO - PROGRESS: at sentence #60, processed 852 words, keeping 92 word types
+INFO - PROGRESS: at sentence #62, processed 854 words, keeping 94 word types
+INFO - PROGRESS: at sentence #64, processed 856 words, keeping 96 word types
+INFO - PROGRESS: at sentence #66, processed 858 words, keeping 98 word types
+INFO - PROGRESS: at sentence #68, processed 860 words, keeping 100 word types
+INFO - PROGRESS: at sentence #70, processed 961 words, keeping 101 word types
+INFO - PROGRESS: at sentence #72, processed 963 words, keeping 103 word types
+INFO - PROGRESS: at sentence #74, processed 1064 words, keeping 104 word types
+INFO - PROGRESS: at sentence #76, processed 1165 words, keeping 112 word types
+INFO - PROGRESS: at sentence #78, processed 1167 words, keeping 114 word types
+INFO - PROGRESS: at sentence #80, processed 1268 words, keeping 117 word types
+INFO - PROGRESS: at sentence #82, processed 1369 words, keeping 118 word types
+INFO - PROGRESS: at sentence #84, processed 1371 words, keeping 120 word types
+INFO - PROGRESS: at sentence #86, processed 1373 words, keeping 122 word types
+INFO - PROGRESS: at sentence #88, processed 1375 words, keeping 124 word types
+INFO - PROGRESS: at sentence #90, processed 1575 words, keeping 126 word types
+INFO - PROGRESS: at sentence #92, processed 1577 words, keeping 128 word types
+INFO - PROGRESS: at sentence #94, processed 1579 words, keeping 130 word types
+INFO - PROGRESS: at sentence #96, processed 1581 words, keeping 132 word types
+INFO - PROGRESS: at sentence #98, processed 1583 words, keeping 134 word types
+INFO - PROGRESS: at sentence #100, processed 1585 words, keeping 136 word types
+INFO - PROGRESS: at sentence #102, processed 1587 words, keeping 138 word types
+INFO - PROGRESS: at sentence #104, processed 1787 words, keeping 140 word types
+INFO - PROGRESS: at sentence #106, processed 1789 words, keeping 142 word types
+INFO - PROGRESS: at sentence #108, processed 1791 words, keeping 144 word types
+INFO - PROGRESS: at sentence #110, processed 1991 words, keeping 144 word types
+INFO - PROGRESS: at sentence #112, processed 1993 words, keeping 146 word types
+INFO - PROGRESS: at sentence #114, processed 1995 words, keeping 148 word types
+INFO - PROGRESS: at sentence #116, processed 2195 words, keeping 148 word types
+INFO - PROGRESS: at sentence #118, processed 2395 words, keeping 148 word types
+INFO - PROGRESS: at sentence #120, processed 2595 words, keeping 150 word types
+INFO - PROGRESS: at sentence #122, processed 2696 words, keeping 153 word types
+INFO - PROGRESS: at sentence #124, processed 2698 words, keeping 155 word types
+INFO - PROGRESS: at sentence #126, processed 2799 words, keeping 156 word types
+INFO - PROGRESS: at sentence #128, processed 2801 words, keeping 158 word types
+INFO - PROGRESS: at sentence #130, processed 2803 words, keeping 160 word types
+INFO - PROGRESS: at sentence #132, processed 2904 words, keeping 163 word types
+INFO - PROGRESS: at sentence #134, processed 2906 words, keeping 165 word types
+INFO - PROGRESS: at sentence #136, processed 2908 words, keeping 167 word types
+INFO - PROGRESS: at sentence #138, processed 2910 words, keeping 169 word types
+INFO - PROGRESS: at sentence #140, processed 2912 words, keeping 171 word types
+INFO - PROGRESS: at sentence #142, processed 3013 words, keeping 174 word types
+INFO - PROGRESS: at sentence #144, processed 3114 words, keeping 175 word types
+INFO - PROGRESS: at sentence #146, processed 3116 words, keeping 177 word types
+INFO - PROGRESS: at sentence #148, processed 3316 words, keeping 179 word types
+INFO - PROGRESS: at sentence #150, processed 3318 words, keeping 181 word types
+INFO - PROGRESS: at sentence #152, processed 3320 words, keeping 183 word types
+INFO - PROGRESS: at sentence #154, processed 3421 words, keeping 184 word types
+INFO - PROGRESS: at sentence #156, processed 3522 words, keeping 187 word types
+INFO - PROGRESS: at sentence #158, processed 3524 words, keeping 189 word types
+INFO - PROGRESS: at sentence #160, processed 3625 words, keeping 192 word types
+INFO - PROGRESS: at sentence #162, processed 3627 words, keeping 194 word types
+INFO - PROGRESS: at sentence #164, processed 3629 words, keeping 196 word types
+INFO - PROGRESS: at sentence #166, processed 3631 words, keeping 198 word types
+INFO - PROGRESS: at sentence #168, processed 3633 words, keeping 200 word types
+INFO - PROGRESS: at sentence #170, processed 3635 words, keeping 202 word types
+INFO - PROGRESS: at sentence #172, processed 3637 words, keeping 204 word types
+INFO - PROGRESS: at sentence #174, processed 3738 words, keeping 207 word types
+INFO - PROGRESS: at sentence #176, processed 3740 words, keeping 209 word types
+INFO - PROGRESS: at sentence #178, processed 3742 words, keeping 211 word types
+INFO - PROGRESS: at sentence #180, processed 3744 words, keeping 213 word types
+INFO - PROGRESS: at sentence #182, processed 3746 words, keeping 215 word types
+INFO - PROGRESS: at sentence #184, processed 3748 words, keeping 217 word types
+INFO - PROGRESS: at sentence #186, processed 3750 words, keeping 219 word types
+INFO - PROGRESS: at sentence #188, processed 3752 words, keeping 221 word types
+INFO - PROGRESS: at sentence #190, processed 3754 words, keeping 223 word types
+INFO - PROGRESS: at sentence #192, processed 3756 words, keeping 225 word types
+INFO - PROGRESS: at sentence #194, processed 3857 words, keeping 228 word types
+INFO - PROGRESS: at sentence #196, processed 3859 words, keeping 230 word types
+INFO - collected 231 word types from a corpus of 3960 raw words and 198 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 231 unique words (100.00% of original 231, drops 0)', 'datetime': '2024-01-01T13:11:56.932170', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 3960 word corpus (100.00% of original 3960, drops 0)', 'datetime': '2024-01-01T13:11:56.932460', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 231 items
+INFO - sample=0.001 downsamples 71 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1444.165454837577 word corpus (36.5%% of prior 3960)', 'datetime': '2024-01-01T13:11:56.934327', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 231 words and 100 dimensions: 300300 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T13:11:56.936775', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 231 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T13:11:56.937121', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 3960 raw words (1359 effective words) took 0.0s, 280473 effective words/s
+INFO - EPOCH 1: training on 3960 raw words (1441 effective words) took 0.0s, 280183 effective words/s
+INFO - EPOCH 2: training on 3960 raw words (1421 effective words) took 0.0s, 289358 effective words/s
+INFO - EPOCH 3: training on 3960 raw words (1433 effective words) took 0.0s, 295989 effective words/s
+INFO - EPOCH 4: training on 3960 raw words (1453 effective words) took 0.0s, 248049 effective words/s
+INFO - EPOCH 5: training on 3960 raw words (1466 effective words) took 0.0s, 392009 effective words/s
+INFO - EPOCH 6: training on 3960 raw words (1443 effective words) took 0.0s, 282068 effective words/s
+INFO - EPOCH 7: training on 3960 raw words (1462 effective words) took 0.0s, 401530 effective words/s
+INFO - EPOCH 8: training on 3960 raw words (1445 effective words) took 0.0s, 293561 effective words/s
+INFO - EPOCH 9: training on 3960 raw words (1389 effective words) took 0.0s, 290950 effective words/s
+INFO - EPOCH 10: training on 3960 raw words (1456 effective words) took 0.0s, 392989 effective words/s
+INFO - EPOCH 11: training on 3960 raw words (1488 effective words) took 0.0s, 302563 effective words/s
+INFO - EPOCH 12: training on 3960 raw words (1409 effective words) took 0.0s, 439274 effective words/s
+INFO - EPOCH 13: training on 3960 raw words (1376 effective words) took 0.0s, 299397 effective words/s
+INFO - EPOCH 14: training on 3960 raw words (1477 effective words) took 0.0s, 303502 effective words/s
+INFO - EPOCH 15: training on 3960 raw words (1418 effective words) took 0.0s, 303726 effective words/s
+INFO - EPOCH 16: training on 3960 raw words (1410 effective words) took 0.0s, 306551 effective words/s
+INFO - EPOCH 17: training on 3960 raw words (1442 effective words) took 0.0s, 437450 effective words/s
+INFO - EPOCH 18: training on 3960 raw words (1422 effective words) took 0.0s, 456616 effective words/s
+INFO - EPOCH 19: training on 3960 raw words (1417 effective words) took 0.0s, 318637 effective words/s
+INFO - EPOCH 20: training on 3960 raw words (1436 effective words) took 0.0s, 343026 effective words/s
+INFO - EPOCH 21: training on 3960 raw words (1394 effective words) took 0.0s, 276711 effective words/s
+INFO - EPOCH 22: training on 3960 raw words (1527 effective words) took 0.0s, 315030 effective words/s
+INFO - EPOCH 23: training on 3960 raw words (1409 effective words) took 0.0s, 456972 effective words/s
+INFO - EPOCH 24: training on 3960 raw words (1460 effective words) took 0.0s, 311990 effective words/s
+INFO - EPOCH 25: training on 3960 raw words (1420 effective words) took 0.0s, 308488 effective words/s
+INFO - EPOCH 26: training on 3960 raw words (1453 effective words) took 0.0s, 317616 effective words/s
+INFO - EPOCH 27: training on 3960 raw words (1451 effective words) took 0.0s, 310516 effective words/s
+INFO - EPOCH 28: training on 3960 raw words (1411 effective words) took 0.0s, 327545 effective words/s
+INFO - EPOCH 29: training on 3960 raw words (1491 effective words) took 0.0s, 323057 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 118800 raw words (43079 effective words) took 0.2s, 179461 effective words/s', 'datetime': '2024-01-01T13:11:57.177432', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=0, vector_size=100, alpha=0.03>', 'datetime': '2024-01-01T13:13:30.653879', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'created'}
+INFO - collecting all words and their counts
+INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - PROGRESS: at sentence #2, processed 2 words, keeping 2 word types
+INFO - PROGRESS: at sentence #4, processed 4 words, keeping 4 word types
+INFO - PROGRESS: at sentence #6, processed 204 words, keeping 67 word types
+INFO - PROGRESS: at sentence #8, processed 206 words, keeping 69 word types
+INFO - PROGRESS: at sentence #10, processed 307 words, keeping 126 word types
+INFO - PROGRESS: at sentence #12, processed 309 words, keeping 128 word types
+INFO - PROGRESS: at sentence #14, processed 311 words, keeping 130 word types
+INFO - PROGRESS: at sentence #16, processed 313 words, keeping 132 word types
+INFO - PROGRESS: at sentence #18, processed 414 words, keeping 135 word types
+INFO - PROGRESS: at sentence #20, processed 416 words, keeping 137 word types
+INFO - PROGRESS: at sentence #22, processed 418 words, keeping 139 word types
+INFO - PROGRESS: at sentence #24, processed 420 words, keeping 141 word types
+INFO - PROGRESS: at sentence #26, processed 422 words, keeping 143 word types
+INFO - PROGRESS: at sentence #28, processed 424 words, keeping 145 word types
+INFO - PROGRESS: at sentence #30, processed 525 words, keeping 194 word types
+INFO - PROGRESS: at sentence #32, processed 626 words, keeping 235 word types
+INFO - PROGRESS: at sentence #34, processed 628 words, keeping 237 word types
+INFO - PROGRESS: at sentence #36, processed 630 words, keeping 239 word types
+INFO - PROGRESS: at sentence #38, processed 632 words, keeping 241 word types
+INFO - PROGRESS: at sentence #40, processed 733 words, keeping 286 word types
+INFO - PROGRESS: at sentence #42, processed 735 words, keeping 288 word types
+INFO - PROGRESS: at sentence #44, processed 836 words, keeping 328 word types
+INFO - PROGRESS: at sentence #46, processed 1036 words, keeping 386 word types
+INFO - PROGRESS: at sentence #48, processed 1038 words, keeping 388 word types
+INFO - PROGRESS: at sentence #50, processed 1040 words, keeping 390 word types
+INFO - PROGRESS: at sentence #52, processed 1042 words, keeping 392 word types
+INFO - PROGRESS: at sentence #54, processed 1044 words, keeping 394 word types
+INFO - PROGRESS: at sentence #56, processed 1145 words, keeping 424 word types
+INFO - PROGRESS: at sentence #58, processed 1147 words, keeping 426 word types
+INFO - PROGRESS: at sentence #60, processed 1248 words, keeping 449 word types
+INFO - PROGRESS: at sentence #62, processed 1250 words, keeping 451 word types
+INFO - PROGRESS: at sentence #64, processed 1252 words, keeping 453 word types
+INFO - PROGRESS: at sentence #66, processed 1254 words, keeping 455 word types
+INFO - PROGRESS: at sentence #68, processed 1454 words, keeping 501 word types
+INFO - PROGRESS: at sentence #70, processed 1456 words, keeping 503 word types
+INFO - PROGRESS: at sentence #72, processed 1458 words, keeping 505 word types
+INFO - PROGRESS: at sentence #74, processed 1460 words, keeping 507 word types
+INFO - PROGRESS: at sentence #76, processed 1561 words, keeping 524 word types
+INFO - PROGRESS: at sentence #78, processed 1662 words, keeping 549 word types
+INFO - PROGRESS: at sentence #80, processed 1763 words, keeping 564 word types
+INFO - PROGRESS: at sentence #82, processed 1864 words, keeping 583 word types
+INFO - PROGRESS: at sentence #84, processed 1866 words, keeping 585 word types
+INFO - PROGRESS: at sentence #86, processed 1868 words, keeping 587 word types
+INFO - PROGRESS: at sentence #88, processed 1870 words, keeping 589 word types
+INFO - PROGRESS: at sentence #90, processed 1971 words, keeping 612 word types
+INFO - PROGRESS: at sentence #92, processed 1973 words, keeping 614 word types
+INFO - PROGRESS: at sentence #94, processed 1975 words, keeping 616 word types
+INFO - PROGRESS: at sentence #96, processed 2076 words, keeping 632 word types
+INFO - PROGRESS: at sentence #98, processed 2078 words, keeping 634 word types
+INFO - PROGRESS: at sentence #100, processed 2080 words, keeping 636 word types
+INFO - PROGRESS: at sentence #102, processed 2082 words, keeping 638 word types
+INFO - PROGRESS: at sentence #104, processed 2183 words, keeping 666 word types
+INFO - PROGRESS: at sentence #106, processed 2284 words, keeping 679 word types
+INFO - PROGRESS: at sentence #108, processed 2385 words, keeping 698 word types
+INFO - PROGRESS: at sentence #110, processed 2486 words, keeping 714 word types
+INFO - PROGRESS: at sentence #112, processed 2488 words, keeping 716 word types
+INFO - PROGRESS: at sentence #114, processed 2589 words, keeping 734 word types
+INFO - PROGRESS: at sentence #116, processed 2690 words, keeping 744 word types
+INFO - PROGRESS: at sentence #118, processed 2692 words, keeping 746 word types
+INFO - PROGRESS: at sentence #120, processed 2793 words, keeping 763 word types
+INFO - PROGRESS: at sentence #122, processed 2993 words, keeping 781 word types
+INFO - PROGRESS: at sentence #124, processed 2995 words, keeping 783 word types
+INFO - PROGRESS: at sentence #126, processed 2997 words, keeping 785 word types
+INFO - PROGRESS: at sentence #128, processed 3098 words, keeping 797 word types
+INFO - PROGRESS: at sentence #130, processed 3100 words, keeping 799 word types
+INFO - PROGRESS: at sentence #132, processed 3201 words, keeping 809 word types
+INFO - PROGRESS: at sentence #134, processed 3203 words, keeping 811 word types
+INFO - PROGRESS: at sentence #136, processed 3205 words, keeping 813 word types
+INFO - PROGRESS: at sentence #138, processed 3306 words, keeping 826 word types
+INFO - PROGRESS: at sentence #140, processed 3407 words, keeping 833 word types
+INFO - PROGRESS: at sentence #142, processed 3607 words, keeping 848 word types
+INFO - PROGRESS: at sentence #144, processed 3609 words, keeping 850 word types
+INFO - PROGRESS: at sentence #146, processed 3809 words, keeping 865 word types
+INFO - PROGRESS: at sentence #148, processed 3910 words, keeping 872 word types
+INFO - PROGRESS: at sentence #150, processed 3912 words, keeping 874 word types
+INFO - PROGRESS: at sentence #152, processed 3914 words, keeping 876 word types
+INFO - PROGRESS: at sentence #154, processed 3916 words, keeping 878 word types
+INFO - PROGRESS: at sentence #156, processed 3918 words, keeping 880 word types
+INFO - PROGRESS: at sentence #158, processed 3920 words, keeping 882 word types
+INFO - PROGRESS: at sentence #160, processed 4021 words, keeping 889 word types
+INFO - PROGRESS: at sentence #162, processed 4023 words, keeping 891 word types
+INFO - PROGRESS: at sentence #164, processed 4124 words, keeping 898 word types
+INFO - PROGRESS: at sentence #166, processed 4126 words, keeping 900 word types
+INFO - PROGRESS: at sentence #168, processed 4227 words, keeping 904 word types
+INFO - PROGRESS: at sentence #170, processed 4427 words, keeping 916 word types
+INFO - PROGRESS: at sentence #172, processed 4429 words, keeping 918 word types
+INFO - PROGRESS: at sentence #174, processed 4431 words, keeping 920 word types
+INFO - PROGRESS: at sentence #176, processed 4433 words, keeping 922 word types
+INFO - PROGRESS: at sentence #178, processed 4633 words, keeping 932 word types
+INFO - PROGRESS: at sentence #180, processed 4734 words, keeping 941 word types
+INFO - PROGRESS: at sentence #182, processed 4835 words, keeping 948 word types
+INFO - PROGRESS: at sentence #184, processed 4837 words, keeping 950 word types
+INFO - PROGRESS: at sentence #186, processed 4938 words, keeping 959 word types
+INFO - PROGRESS: at sentence #188, processed 4940 words, keeping 961 word types
+INFO - PROGRESS: at sentence #190, processed 4942 words, keeping 963 word types
+INFO - PROGRESS: at sentence #192, processed 5043 words, keeping 969 word types
+INFO - PROGRESS: at sentence #194, processed 5045 words, keeping 971 word types
+INFO - PROGRESS: at sentence #196, processed 5047 words, keeping 973 word types
+INFO - PROGRESS: at sentence #198, processed 5049 words, keeping 975 word types
+INFO - PROGRESS: at sentence #200, processed 5051 words, keeping 977 word types
+INFO - PROGRESS: at sentence #202, processed 5053 words, keeping 979 word types
+INFO - PROGRESS: at sentence #204, processed 5055 words, keeping 981 word types
+INFO - PROGRESS: at sentence #206, processed 5156 words, keeping 986 word types
+INFO - PROGRESS: at sentence #208, processed 5158 words, keeping 988 word types
+INFO - PROGRESS: at sentence #210, processed 5160 words, keeping 990 word types
+INFO - PROGRESS: at sentence #212, processed 5261 words, keeping 993 word types
+INFO - PROGRESS: at sentence #214, processed 5263 words, keeping 995 word types
+INFO - PROGRESS: at sentence #216, processed 5265 words, keeping 997 word types
+INFO - PROGRESS: at sentence #218, processed 5267 words, keeping 999 word types
+INFO - PROGRESS: at sentence #220, processed 5368 words, keeping 1002 word types
+INFO - PROGRESS: at sentence #222, processed 5370 words, keeping 1004 word types
+INFO - PROGRESS: at sentence #224, processed 5471 words, keeping 1014 word types
+INFO - PROGRESS: at sentence #226, processed 5473 words, keeping 1016 word types
+INFO - PROGRESS: at sentence #228, processed 5475 words, keeping 1018 word types
+INFO - PROGRESS: at sentence #230, processed 5477 words, keeping 1020 word types
+INFO - PROGRESS: at sentence #232, processed 5479 words, keeping 1022 word types
+INFO - PROGRESS: at sentence #234, processed 5481 words, keeping 1024 word types
+INFO - PROGRESS: at sentence #236, processed 5483 words, keeping 1026 word types
+INFO - PROGRESS: at sentence #238, processed 5485 words, keeping 1028 word types
+INFO - PROGRESS: at sentence #240, processed 5586 words, keeping 1030 word types
+INFO - PROGRESS: at sentence #242, processed 5588 words, keeping 1032 word types
+INFO - PROGRESS: at sentence #244, processed 5689 words, keeping 1038 word types
+INFO - PROGRESS: at sentence #246, processed 5691 words, keeping 1040 word types
+INFO - PROGRESS: at sentence #248, processed 5693 words, keeping 1042 word types
+INFO - PROGRESS: at sentence #250, processed 5695 words, keeping 1044 word types
+INFO - PROGRESS: at sentence #252, processed 5697 words, keeping 1046 word types
+INFO - PROGRESS: at sentence #254, processed 5699 words, keeping 1048 word types
+INFO - PROGRESS: at sentence #256, processed 5701 words, keeping 1050 word types
+INFO - PROGRESS: at sentence #258, processed 5703 words, keeping 1052 word types
+INFO - PROGRESS: at sentence #260, processed 5804 words, keeping 1057 word types
+INFO - PROGRESS: at sentence #262, processed 5806 words, keeping 1059 word types
+INFO - PROGRESS: at sentence #264, processed 5907 words, keeping 1064 word types
+INFO - PROGRESS: at sentence #266, processed 6008 words, keeping 1067 word types
+INFO - PROGRESS: at sentence #268, processed 6010 words, keeping 1069 word types
+INFO - PROGRESS: at sentence #270, processed 6012 words, keeping 1071 word types
+INFO - PROGRESS: at sentence #272, processed 6113 words, keeping 1074 word types
+INFO - PROGRESS: at sentence #274, processed 6115 words, keeping 1076 word types
+INFO - PROGRESS: at sentence #276, processed 6117 words, keeping 1078 word types
+INFO - PROGRESS: at sentence #278, processed 6119 words, keeping 1080 word types
+INFO - PROGRESS: at sentence #280, processed 6121 words, keeping 1082 word types
+INFO - PROGRESS: at sentence #282, processed 6222 words, keeping 1088 word types
+INFO - PROGRESS: at sentence #284, processed 6224 words, keeping 1090 word types
+INFO - PROGRESS: at sentence #286, processed 6226 words, keeping 1092 word types
+INFO - PROGRESS: at sentence #288, processed 6426 words, keeping 1096 word types
+INFO - PROGRESS: at sentence #290, processed 6428 words, keeping 1098 word types
+INFO - PROGRESS: at sentence #292, processed 6430 words, keeping 1100 word types
+INFO - PROGRESS: at sentence #294, processed 6432 words, keeping 1102 word types
+INFO - PROGRESS: at sentence #296, processed 6434 words, keeping 1104 word types
+INFO - PROGRESS: at sentence #298, processed 6634 words, keeping 1114 word types
+INFO - PROGRESS: at sentence #300, processed 6636 words, keeping 1116 word types
+INFO - PROGRESS: at sentence #302, processed 6638 words, keeping 1118 word types
+INFO - PROGRESS: at sentence #304, processed 6739 words, keeping 1120 word types
+INFO - PROGRESS: at sentence #306, processed 6741 words, keeping 1122 word types
+INFO - PROGRESS: at sentence #308, processed 6743 words, keeping 1124 word types
+INFO - PROGRESS: at sentence #310, processed 6745 words, keeping 1126 word types
+INFO - PROGRESS: at sentence #312, processed 6747 words, keeping 1128 word types
+INFO - PROGRESS: at sentence #314, processed 6848 words, keeping 1136 word types
+INFO - PROGRESS: at sentence #316, processed 6850 words, keeping 1138 word types
+INFO - PROGRESS: at sentence #318, processed 7050 words, keeping 1141 word types
+INFO - PROGRESS: at sentence #320, processed 7052 words, keeping 1143 word types
+INFO - PROGRESS: at sentence #322, processed 7054 words, keeping 1145 word types
+INFO - PROGRESS: at sentence #324, processed 7155 words, keeping 1147 word types
+INFO - PROGRESS: at sentence #326, processed 7157 words, keeping 1149 word types
+INFO - PROGRESS: at sentence #328, processed 7357 words, keeping 1156 word types
+INFO - PROGRESS: at sentence #330, processed 7557 words, keeping 1160 word types
+INFO - PROGRESS: at sentence #332, processed 7658 words, keeping 1165 word types
+INFO - PROGRESS: at sentence #334, processed 7759 words, keeping 1171 word types
+INFO - PROGRESS: at sentence #336, processed 7860 words, keeping 1173 word types
+INFO - PROGRESS: at sentence #338, processed 7961 words, keeping 1175 word types
+INFO - PROGRESS: at sentence #340, processed 7963 words, keeping 1177 word types
+INFO - PROGRESS: at sentence #342, processed 7965 words, keeping 1179 word types
+INFO - PROGRESS: at sentence #344, processed 7967 words, keeping 1181 word types
+INFO - PROGRESS: at sentence #346, processed 7969 words, keeping 1183 word types
+INFO - PROGRESS: at sentence #348, processed 8070 words, keeping 1186 word types
+INFO - PROGRESS: at sentence #350, processed 8072 words, keeping 1188 word types
+INFO - PROGRESS: at sentence #352, processed 8173 words, keeping 1191 word types
+INFO - PROGRESS: at sentence #354, processed 8175 words, keeping 1193 word types
+INFO - PROGRESS: at sentence #356, processed 8276 words, keeping 1197 word types
+INFO - PROGRESS: at sentence #358, processed 8278 words, keeping 1199 word types
+INFO - PROGRESS: at sentence #360, processed 8379 words, keeping 1207 word types
+INFO - PROGRESS: at sentence #362, processed 8381 words, keeping 1209 word types
+INFO - PROGRESS: at sentence #364, processed 8383 words, keeping 1211 word types
+INFO - PROGRESS: at sentence #366, processed 8385 words, keeping 1213 word types
+INFO - PROGRESS: at sentence #368, processed 8387 words, keeping 1215 word types
+INFO - PROGRESS: at sentence #370, processed 8389 words, keeping 1217 word types
+INFO - PROGRESS: at sentence #372, processed 8490 words, keeping 1220 word types
+INFO - PROGRESS: at sentence #374, processed 8492 words, keeping 1222 word types
+INFO - PROGRESS: at sentence #376, processed 8593 words, keeping 1225 word types
+INFO - PROGRESS: at sentence #378, processed 8694 words, keeping 1229 word types
+INFO - PROGRESS: at sentence #380, processed 8795 words, keeping 1234 word types
+INFO - PROGRESS: at sentence #382, processed 8797 words, keeping 1236 word types
+INFO - PROGRESS: at sentence #384, processed 8799 words, keeping 1238 word types
+INFO - PROGRESS: at sentence #386, processed 8900 words, keeping 1241 word types
+INFO - PROGRESS: at sentence #388, processed 9001 words, keeping 1245 word types
+INFO - PROGRESS: at sentence #390, processed 9003 words, keeping 1247 word types
+INFO - PROGRESS: at sentence #392, processed 9005 words, keeping 1249 word types
+INFO - PROGRESS: at sentence #394, processed 9007 words, keeping 1251 word types
+INFO - PROGRESS: at sentence #396, processed 9108 words, keeping 1254 word types
+INFO - PROGRESS: at sentence #398, processed 9308 words, keeping 1262 word types
+INFO - PROGRESS: at sentence #400, processed 9310 words, keeping 1264 word types
+INFO - PROGRESS: at sentence #402, processed 9411 words, keeping 1268 word types
+INFO - PROGRESS: at sentence #404, processed 9413 words, keeping 1270 word types
+INFO - PROGRESS: at sentence #406, processed 9613 words, keeping 1274 word types
+INFO - PROGRESS: at sentence #408, processed 9714 words, keeping 1279 word types
+INFO - PROGRESS: at sentence #410, processed 9716 words, keeping 1281 word types
+INFO - PROGRESS: at sentence #412, processed 9718 words, keeping 1283 word types
+INFO - PROGRESS: at sentence #414, processed 9819 words, keeping 1286 word types
+INFO - PROGRESS: at sentence #416, processed 9920 words, keeping 1287 word types
+INFO - PROGRESS: at sentence #418, processed 10021 words, keeping 1289 word types
+INFO - PROGRESS: at sentence #420, processed 10122 words, keeping 1291 word types
+INFO - PROGRESS: at sentence #422, processed 10124 words, keeping 1293 word types
+INFO - PROGRESS: at sentence #424, processed 10225 words, keeping 1294 word types
+INFO - PROGRESS: at sentence #426, processed 10326 words, keeping 1298 word types
+INFO - PROGRESS: at sentence #428, processed 10526 words, keeping 1303 word types
+INFO - PROGRESS: at sentence #430, processed 10627 words, keeping 1306 word types
+INFO - PROGRESS: at sentence #432, processed 10728 words, keeping 1308 word types
+INFO - PROGRESS: at sentence #434, processed 10730 words, keeping 1310 word types
+INFO - PROGRESS: at sentence #436, processed 10732 words, keeping 1312 word types
+INFO - PROGRESS: at sentence #438, processed 10833 words, keeping 1314 word types
+INFO - PROGRESS: at sentence #440, processed 10934 words, keeping 1315 word types
+INFO - PROGRESS: at sentence #442, processed 10936 words, keeping 1317 word types
+INFO - PROGRESS: at sentence #444, processed 10938 words, keeping 1319 word types
+INFO - PROGRESS: at sentence #446, processed 11039 words, keeping 1321 word types
+INFO - PROGRESS: at sentence #448, processed 11041 words, keeping 1323 word types
+INFO - PROGRESS: at sentence #450, processed 11142 words, keeping 1328 word types
+INFO - PROGRESS: at sentence #452, processed 11144 words, keeping 1330 word types
+INFO - PROGRESS: at sentence #454, processed 11245 words, keeping 1333 word types
+INFO - PROGRESS: at sentence #456, processed 11247 words, keeping 1335 word types
+INFO - PROGRESS: at sentence #458, processed 11249 words, keeping 1337 word types
+INFO - PROGRESS: at sentence #460, processed 11350 words, keeping 1344 word types
+INFO - PROGRESS: at sentence #462, processed 11451 words, keeping 1347 word types
+INFO - PROGRESS: at sentence #464, processed 11453 words, keeping 1349 word types
+INFO - PROGRESS: at sentence #466, processed 11455 words, keeping 1351 word types
+INFO - PROGRESS: at sentence #468, processed 11556 words, keeping 1353 word types
+INFO - PROGRESS: at sentence #470, processed 11558 words, keeping 1355 word types
+INFO - PROGRESS: at sentence #472, processed 11659 words, keeping 1357 word types
+INFO - PROGRESS: at sentence #474, processed 11859 words, keeping 1359 word types
+INFO - PROGRESS: at sentence #476, processed 11861 words, keeping 1361 word types
+INFO - PROGRESS: at sentence #478, processed 11962 words, keeping 1363 word types
+INFO - PROGRESS: at sentence #480, processed 11964 words, keeping 1365 word types
+INFO - PROGRESS: at sentence #482, processed 12065 words, keeping 1368 word types
+INFO - PROGRESS: at sentence #484, processed 12166 words, keeping 1369 word types
+INFO - PROGRESS: at sentence #486, processed 12168 words, keeping 1371 word types
+INFO - PROGRESS: at sentence #488, processed 12170 words, keeping 1373 word types
+INFO - PROGRESS: at sentence #490, processed 12172 words, keeping 1375 word types
+INFO - PROGRESS: at sentence #492, processed 12273 words, keeping 1377 word types
+INFO - PROGRESS: at sentence #494, processed 12275 words, keeping 1379 word types
+INFO - PROGRESS: at sentence #496, processed 12376 words, keeping 1380 word types
+INFO - PROGRESS: at sentence #498, processed 12378 words, keeping 1382 word types
+INFO - PROGRESS: at sentence #500, processed 12479 words, keeping 1384 word types
+INFO - PROGRESS: at sentence #502, processed 12580 words, keeping 1389 word types
+INFO - PROGRESS: at sentence #504, processed 12582 words, keeping 1391 word types
+INFO - PROGRESS: at sentence #506, processed 12683 words, keeping 1393 word types
+INFO - PROGRESS: at sentence #508, processed 12685 words, keeping 1395 word types
+INFO - PROGRESS: at sentence #510, processed 12786 words, keeping 1401 word types
+INFO - PROGRESS: at sentence #512, processed 12887 words, keeping 1403 word types
+INFO - PROGRESS: at sentence #514, processed 12889 words, keeping 1405 word types
+INFO - PROGRESS: at sentence #516, processed 12990 words, keeping 1407 word types
+INFO - PROGRESS: at sentence #518, processed 13091 words, keeping 1409 word types
+INFO - PROGRESS: at sentence #520, processed 13192 words, keeping 1412 word types
+INFO - PROGRESS: at sentence #522, processed 13293 words, keeping 1415 word types
+INFO - PROGRESS: at sentence #524, processed 13295 words, keeping 1417 word types
+INFO - PROGRESS: at sentence #526, processed 13297 words, keeping 1419 word types
+INFO - PROGRESS: at sentence #528, processed 13299 words, keeping 1421 word types
+INFO - PROGRESS: at sentence #530, processed 13400 words, keeping 1423 word types
+INFO - PROGRESS: at sentence #532, processed 13501 words, keeping 1424 word types
+INFO - PROGRESS: at sentence #534, processed 13701 words, keeping 1425 word types
+INFO - PROGRESS: at sentence #536, processed 13802 words, keeping 1427 word types
+INFO - PROGRESS: at sentence #538, processed 13804 words, keeping 1429 word types
+INFO - PROGRESS: at sentence #540, processed 13806 words, keeping 1431 word types
+INFO - PROGRESS: at sentence #542, processed 13907 words, keeping 1436 word types
+INFO - PROGRESS: at sentence #544, processed 13909 words, keeping 1438 word types
+INFO - PROGRESS: at sentence #546, processed 13911 words, keeping 1440 word types
+INFO - PROGRESS: at sentence #548, processed 13913 words, keeping 1442 word types
+INFO - PROGRESS: at sentence #550, processed 13915 words, keeping 1444 word types
+INFO - PROGRESS: at sentence #552, processed 13917 words, keeping 1446 word types
+INFO - PROGRESS: at sentence #554, processed 13919 words, keeping 1448 word types
+INFO - PROGRESS: at sentence #556, processed 14020 words, keeping 1451 word types
+INFO - PROGRESS: at sentence #558, processed 14121 words, keeping 1452 word types
+INFO - PROGRESS: at sentence #560, processed 14222 words, keeping 1454 word types
+INFO - PROGRESS: at sentence #562, processed 14323 words, keeping 1456 word types
+INFO - PROGRESS: at sentence #564, processed 14325 words, keeping 1458 word types
+INFO - PROGRESS: at sentence #566, processed 14327 words, keeping 1460 word types
+INFO - PROGRESS: at sentence #568, processed 14428 words, keeping 1462 word types
+INFO - PROGRESS: at sentence #570, processed 14430 words, keeping 1464 word types
+INFO - PROGRESS: at sentence #572, processed 14531 words, keeping 1466 word types
+INFO - PROGRESS: at sentence #574, processed 14533 words, keeping 1468 word types
+INFO - PROGRESS: at sentence #576, processed 14634 words, keeping 1471 word types
+INFO - PROGRESS: at sentence #578, processed 14636 words, keeping 1473 word types
+INFO - PROGRESS: at sentence #580, processed 14638 words, keeping 1475 word types
+INFO - PROGRESS: at sentence #582, processed 14739 words, keeping 1476 word types
+INFO - PROGRESS: at sentence #584, processed 14939 words, keeping 1477 word types
+INFO - PROGRESS: at sentence #586, processed 15040 words, keeping 1479 word types
+INFO - PROGRESS: at sentence #588, processed 15042 words, keeping 1481 word types
+INFO - PROGRESS: at sentence #590, processed 15044 words, keeping 1483 word types
+INFO - PROGRESS: at sentence #592, processed 15244 words, keeping 1484 word types
+INFO - PROGRESS: at sentence #594, processed 15246 words, keeping 1486 word types
+INFO - PROGRESS: at sentence #596, processed 15347 words, keeping 1487 word types
+INFO - PROGRESS: at sentence #598, processed 15349 words, keeping 1489 word types
+INFO - PROGRESS: at sentence #600, processed 15351 words, keeping 1491 word types
+INFO - PROGRESS: at sentence #602, processed 15452 words, keeping 1494 word types
+INFO - PROGRESS: at sentence #604, processed 15454 words, keeping 1496 word types
+INFO - PROGRESS: at sentence #606, processed 15456 words, keeping 1498 word types
+INFO - PROGRESS: at sentence #608, processed 15557 words, keeping 1499 word types
+INFO - PROGRESS: at sentence #610, processed 15658 words, keeping 1501 word types
+INFO - PROGRESS: at sentence #612, processed 15660 words, keeping 1503 word types
+INFO - PROGRESS: at sentence #614, processed 15761 words, keeping 1504 word types
+INFO - PROGRESS: at sentence #616, processed 15763 words, keeping 1506 word types
+INFO - PROGRESS: at sentence #618, processed 15765 words, keeping 1508 word types
+INFO - PROGRESS: at sentence #620, processed 15866 words, keeping 1509 word types
+INFO - PROGRESS: at sentence #622, processed 16066 words, keeping 1510 word types
+INFO - PROGRESS: at sentence #624, processed 16266 words, keeping 1511 word types
+INFO - PROGRESS: at sentence #626, processed 16367 words, keeping 1512 word types
+INFO - PROGRESS: at sentence #628, processed 16468 words, keeping 1513 word types
+INFO - PROGRESS: at sentence #630, processed 16470 words, keeping 1515 word types
+INFO - PROGRESS: at sentence #632, processed 16670 words, keeping 1517 word types
+INFO - PROGRESS: at sentence #634, processed 16672 words, keeping 1519 word types
+INFO - PROGRESS: at sentence #636, processed 16674 words, keeping 1521 word types
+INFO - PROGRESS: at sentence #638, processed 16676 words, keeping 1523 word types
+INFO - PROGRESS: at sentence #640, processed 16678 words, keeping 1525 word types
+INFO - PROGRESS: at sentence #642, processed 16878 words, keeping 1525 word types
+INFO - PROGRESS: at sentence #644, processed 16880 words, keeping 1527 word types
+INFO - PROGRESS: at sentence #646, processed 16981 words, keeping 1528 word types
+INFO - PROGRESS: at sentence #648, processed 16983 words, keeping 1530 word types
+INFO - PROGRESS: at sentence #650, processed 16985 words, keeping 1532 word types
+INFO - PROGRESS: at sentence #652, processed 17086 words, keeping 1535 word types
+INFO - PROGRESS: at sentence #654, processed 17088 words, keeping 1537 word types
+INFO - PROGRESS: at sentence #656, processed 17288 words, keeping 1541 word types
+INFO - PROGRESS: at sentence #658, processed 17290 words, keeping 1543 word types
+INFO - PROGRESS: at sentence #660, processed 17391 words, keeping 1545 word types
+INFO - PROGRESS: at sentence #662, processed 17492 words, keeping 1546 word types
+INFO - PROGRESS: at sentence #664, processed 17494 words, keeping 1548 word types
+INFO - PROGRESS: at sentence #666, processed 17496 words, keeping 1550 word types
+INFO - PROGRESS: at sentence #668, processed 17597 words, keeping 1551 word types
+INFO - PROGRESS: at sentence #670, processed 17797 words, keeping 1551 word types
+INFO - PROGRESS: at sentence #672, processed 17799 words, keeping 1553 word types
+INFO - PROGRESS: at sentence #674, processed 17900 words, keeping 1554 word types
+INFO - PROGRESS: at sentence #676, processed 18001 words, keeping 1555 word types
+INFO - PROGRESS: at sentence #678, processed 18201 words, keeping 1555 word types
+INFO - PROGRESS: at sentence #680, processed 18203 words, keeping 1557 word types
+INFO - PROGRESS: at sentence #682, processed 18304 words, keeping 1558 word types
+INFO - PROGRESS: at sentence #684, processed 18405 words, keeping 1561 word types
+INFO - PROGRESS: at sentence #686, processed 18407 words, keeping 1563 word types
+INFO - PROGRESS: at sentence #688, processed 18409 words, keeping 1565 word types
+INFO - PROGRESS: at sentence #690, processed 18510 words, keeping 1567 word types
+INFO - PROGRESS: at sentence #692, processed 18611 words, keeping 1568 word types
+INFO - PROGRESS: at sentence #694, processed 18613 words, keeping 1570 word types
+INFO - PROGRESS: at sentence #696, processed 18714 words, keeping 1571 word types
+INFO - PROGRESS: at sentence #698, processed 18815 words, keeping 1572 word types
+INFO - PROGRESS: at sentence #700, processed 18916 words, keeping 1573 word types
+INFO - PROGRESS: at sentence #702, processed 19116 words, keeping 1573 word types
+INFO - PROGRESS: at sentence #704, processed 19118 words, keeping 1575 word types
+INFO - PROGRESS: at sentence #706, processed 19120 words, keeping 1577 word types
+INFO - PROGRESS: at sentence #708, processed 19221 words, keeping 1580 word types
+INFO - PROGRESS: at sentence #710, processed 19322 words, keeping 1584 word types
+INFO - PROGRESS: at sentence #712, processed 19324 words, keeping 1586 word types
+INFO - PROGRESS: at sentence #714, processed 19425 words, keeping 1587 word types
+INFO - PROGRESS: at sentence #716, processed 19427 words, keeping 1589 word types
+INFO - PROGRESS: at sentence #718, processed 19627 words, keeping 1590 word types
+INFO - PROGRESS: at sentence #720, processed 19629 words, keeping 1592 word types
+INFO - PROGRESS: at sentence #722, processed 19730 words, keeping 1594 word types
+INFO - PROGRESS: at sentence #724, processed 19930 words, keeping 1594 word types
+INFO - PROGRESS: at sentence #726, processed 19932 words, keeping 1596 word types
+INFO - PROGRESS: at sentence #728, processed 20033 words, keeping 1597 word types
+INFO - PROGRESS: at sentence #730, processed 20035 words, keeping 1599 word types
+INFO - PROGRESS: at sentence #732, processed 20136 words, keeping 1600 word types
+INFO - PROGRESS: at sentence #734, processed 20237 words, keeping 1601 word types
+INFO - PROGRESS: at sentence #736, processed 20239 words, keeping 1603 word types
+INFO - PROGRESS: at sentence #738, processed 20439 words, keeping 1603 word types
+INFO - PROGRESS: at sentence #740, processed 20441 words, keeping 1605 word types
+INFO - PROGRESS: at sentence #742, processed 20443 words, keeping 1607 word types
+INFO - PROGRESS: at sentence #744, processed 20544 words, keeping 1608 word types
+INFO - PROGRESS: at sentence #746, processed 20546 words, keeping 1610 word types
+INFO - PROGRESS: at sentence #748, processed 20647 words, keeping 1611 word types
+INFO - PROGRESS: at sentence #750, processed 20748 words, keeping 1612 word types
+INFO - PROGRESS: at sentence #752, processed 20750 words, keeping 1614 word types
+INFO - PROGRESS: at sentence #754, processed 20752 words, keeping 1616 word types
+INFO - PROGRESS: at sentence #756, processed 20754 words, keeping 1618 word types
+INFO - PROGRESS: at sentence #758, processed 20855 words, keeping 1620 word types
+INFO - PROGRESS: at sentence #760, processed 20857 words, keeping 1622 word types
+INFO - PROGRESS: at sentence #762, processed 20958 words, keeping 1623 word types
+INFO - PROGRESS: at sentence #764, processed 20960 words, keeping 1625 word types
+INFO - PROGRESS: at sentence #766, processed 20962 words, keeping 1627 word types
+INFO - PROGRESS: at sentence #768, processed 20964 words, keeping 1629 word types
+INFO - PROGRESS: at sentence #770, processed 21065 words, keeping 1632 word types
+INFO - PROGRESS: at sentence #772, processed 21166 words, keeping 1634 word types
+INFO - PROGRESS: at sentence #774, processed 21168 words, keeping 1636 word types
+INFO - PROGRESS: at sentence #776, processed 21269 words, keeping 1637 word types
+INFO - PROGRESS: at sentence #778, processed 21370 words, keeping 1638 word types
+INFO - PROGRESS: at sentence #780, processed 21471 words, keeping 1644 word types
+INFO - PROGRESS: at sentence #782, processed 21572 words, keeping 1645 word types
+INFO - PROGRESS: at sentence #784, processed 21673 words, keeping 1646 word types
+INFO - PROGRESS: at sentence #786, processed 21675 words, keeping 1648 word types
+INFO - PROGRESS: at sentence #788, processed 21776 words, keeping 1649 word types
+INFO - PROGRESS: at sentence #790, processed 21877 words, keeping 1652 word types
+INFO - PROGRESS: at sentence #792, processed 21978 words, keeping 1653 word types
+INFO - PROGRESS: at sentence #794, processed 21980 words, keeping 1655 word types
+INFO - PROGRESS: at sentence #796, processed 21982 words, keeping 1657 word types
+INFO - PROGRESS: at sentence #798, processed 21984 words, keeping 1659 word types
+INFO - PROGRESS: at sentence #800, processed 22085 words, keeping 1661 word types
+INFO - PROGRESS: at sentence #802, processed 22087 words, keeping 1663 word types
+INFO - PROGRESS: at sentence #804, processed 22188 words, keeping 1664 word types
+INFO - PROGRESS: at sentence #806, processed 22289 words, keeping 1665 word types
+INFO - PROGRESS: at sentence #808, processed 22390 words, keeping 1667 word types
+INFO - PROGRESS: at sentence #810, processed 22491 words, keeping 1668 word types
+INFO - PROGRESS: at sentence #812, processed 22493 words, keeping 1670 word types
+INFO - PROGRESS: at sentence #814, processed 22495 words, keeping 1672 word types
+INFO - PROGRESS: at sentence #816, processed 22596 words, keeping 1673 word types
+INFO - PROGRESS: at sentence #818, processed 22697 words, keeping 1674 word types
+INFO - PROGRESS: at sentence #820, processed 22798 words, keeping 1676 word types
+INFO - PROGRESS: at sentence #822, processed 22899 words, keeping 1677 word types
+INFO - PROGRESS: at sentence #824, processed 22901 words, keeping 1679 word types
+INFO - PROGRESS: at sentence #826, processed 22903 words, keeping 1681 word types
+INFO - PROGRESS: at sentence #828, processed 22905 words, keeping 1683 word types
+INFO - PROGRESS: at sentence #830, processed 23006 words, keeping 1684 word types
+INFO - PROGRESS: at sentence #832, processed 23008 words, keeping 1686 word types
+INFO - PROGRESS: at sentence #834, processed 23010 words, keeping 1688 word types
+INFO - PROGRESS: at sentence #836, processed 23111 words, keeping 1689 word types
+INFO - PROGRESS: at sentence #838, processed 23311 words, keeping 1690 word types
+INFO - PROGRESS: at sentence #840, processed 23412 words, keeping 1691 word types
+INFO - PROGRESS: at sentence #842, processed 23513 words, keeping 1693 word types
+INFO - PROGRESS: at sentence #844, processed 23515 words, keeping 1695 word types
+INFO - PROGRESS: at sentence #846, processed 23517 words, keeping 1697 word types
+INFO - PROGRESS: at sentence #848, processed 23519 words, keeping 1699 word types
+INFO - PROGRESS: at sentence #850, processed 23521 words, keeping 1701 word types
+INFO - PROGRESS: at sentence #852, processed 23523 words, keeping 1703 word types
+INFO - PROGRESS: at sentence #854, processed 23525 words, keeping 1705 word types
+INFO - PROGRESS: at sentence #856, processed 23527 words, keeping 1707 word types
+INFO - PROGRESS: at sentence #858, processed 23529 words, keeping 1709 word types
+INFO - PROGRESS: at sentence #860, processed 23630 words, keeping 1710 word types
+INFO - PROGRESS: at sentence #862, processed 23632 words, keeping 1712 word types
+INFO - PROGRESS: at sentence #864, processed 23733 words, keeping 1713 word types
+INFO - PROGRESS: at sentence #866, processed 23735 words, keeping 1715 word types
+INFO - PROGRESS: at sentence #868, processed 23737 words, keeping 1717 word types
+INFO - PROGRESS: at sentence #870, processed 23838 words, keeping 1718 word types
+INFO - PROGRESS: at sentence #872, processed 23939 words, keeping 1719 word types
+INFO - PROGRESS: at sentence #874, processed 23941 words, keeping 1721 word types
+INFO - PROGRESS: at sentence #876, processed 23943 words, keeping 1723 word types
+INFO - PROGRESS: at sentence #878, processed 23945 words, keeping 1725 word types
+INFO - PROGRESS: at sentence #880, processed 23947 words, keeping 1727 word types
+INFO - PROGRESS: at sentence #882, processed 24048 words, keeping 1728 word types
+INFO - PROGRESS: at sentence #884, processed 24149 words, keeping 1731 word types
+INFO - PROGRESS: at sentence #886, processed 24349 words, keeping 1733 word types
+INFO - PROGRESS: at sentence #888, processed 24450 words, keeping 1734 word types
+INFO - PROGRESS: at sentence #890, processed 24551 words, keeping 1735 word types
+INFO - PROGRESS: at sentence #892, processed 24652 words, keeping 1736 word types
+INFO - PROGRESS: at sentence #894, processed 24654 words, keeping 1738 word types
+INFO - PROGRESS: at sentence #896, processed 24656 words, keeping 1740 word types
+INFO - PROGRESS: at sentence #898, processed 24757 words, keeping 1741 word types
+INFO - PROGRESS: at sentence #900, processed 24858 words, keeping 1742 word types
+INFO - PROGRESS: at sentence #902, processed 24959 words, keeping 1743 word types
+INFO - PROGRESS: at sentence #904, processed 24961 words, keeping 1745 word types
+INFO - PROGRESS: at sentence #906, processed 25062 words, keeping 1748 word types
+INFO - PROGRESS: at sentence #908, processed 25064 words, keeping 1750 word types
+INFO - PROGRESS: at sentence #910, processed 25165 words, keeping 1751 word types
+INFO - PROGRESS: at sentence #912, processed 25266 words, keeping 1752 word types
+INFO - PROGRESS: at sentence #914, processed 25367 words, keeping 1755 word types
+INFO - PROGRESS: at sentence #916, processed 25567 words, keeping 1755 word types
+INFO - PROGRESS: at sentence #918, processed 25569 words, keeping 1757 word types
+INFO - PROGRESS: at sentence #920, processed 25769 words, keeping 1757 word types
+INFO - PROGRESS: at sentence #922, processed 25771 words, keeping 1759 word types
+INFO - PROGRESS: at sentence #924, processed 25773 words, keeping 1761 word types
+INFO - PROGRESS: at sentence #926, processed 25874 words, keeping 1762 word types
+INFO - PROGRESS: at sentence #928, processed 25876 words, keeping 1764 word types
+INFO - PROGRESS: at sentence #930, processed 26076 words, keeping 1765 word types
+INFO - PROGRESS: at sentence #932, processed 26177 words, keeping 1766 word types
+INFO - PROGRESS: at sentence #934, processed 26278 words, keeping 1767 word types
+INFO - PROGRESS: at sentence #936, processed 26379 words, keeping 1768 word types
+INFO - PROGRESS: at sentence #938, processed 26579 words, keeping 1768 word types
+INFO - PROGRESS: at sentence #940, processed 26779 words, keeping 1770 word types
+INFO - PROGRESS: at sentence #942, processed 26880 words, keeping 1771 word types
+INFO - PROGRESS: at sentence #944, processed 26882 words, keeping 1773 word types
+INFO - PROGRESS: at sentence #946, processed 26884 words, keeping 1775 word types
+INFO - PROGRESS: at sentence #948, processed 26886 words, keeping 1777 word types
+INFO - PROGRESS: at sentence #950, processed 26888 words, keeping 1779 word types
+INFO - PROGRESS: at sentence #952, processed 27088 words, keeping 1779 word types
+INFO - PROGRESS: at sentence #954, processed 27090 words, keeping 1781 word types
+INFO - PROGRESS: at sentence #956, processed 27191 words, keeping 1782 word types
+INFO - PROGRESS: at sentence #958, processed 27193 words, keeping 1784 word types
+INFO - PROGRESS: at sentence #960, processed 27195 words, keeping 1786 word types
+INFO - PROGRESS: at sentence #962, processed 27296 words, keeping 1787 word types
+INFO - PROGRESS: at sentence #964, processed 27397 words, keeping 1788 word types
+INFO - PROGRESS: at sentence #966, processed 27399 words, keeping 1790 word types
+INFO - PROGRESS: at sentence #968, processed 27500 words, keeping 1791 word types
+INFO - PROGRESS: at sentence #970, processed 27601 words, keeping 1792 word types
+INFO - PROGRESS: at sentence #972, processed 27702 words, keeping 1793 word types
+INFO - PROGRESS: at sentence #974, processed 27803 words, keeping 1794 word types
+INFO - PROGRESS: at sentence #976, processed 27805 words, keeping 1796 word types
+INFO - PROGRESS: at sentence #978, processed 27906 words, keeping 1797 word types
+INFO - PROGRESS: at sentence #980, processed 27908 words, keeping 1799 word types
+INFO - PROGRESS: at sentence #982, processed 28009 words, keeping 1800 word types
+INFO - PROGRESS: at sentence #984, processed 28110 words, keeping 1802 word types
+INFO - PROGRESS: at sentence #986, processed 28112 words, keeping 1804 word types
+INFO - PROGRESS: at sentence #988, processed 28114 words, keeping 1806 word types
+INFO - PROGRESS: at sentence #990, processed 28116 words, keeping 1808 word types
+INFO - PROGRESS: at sentence #992, processed 28118 words, keeping 1810 word types
+INFO - PROGRESS: at sentence #994, processed 28219 words, keeping 1811 word types
+INFO - PROGRESS: at sentence #996, processed 28221 words, keeping 1813 word types
+INFO - PROGRESS: at sentence #998, processed 28223 words, keeping 1815 word types
+INFO - PROGRESS: at sentence #1000, processed 28324 words, keeping 1816 word types
+INFO - PROGRESS: at sentence #1002, processed 28326 words, keeping 1818 word types
+INFO - PROGRESS: at sentence #1004, processed 28427 words, keeping 1819 word types
+INFO - PROGRESS: at sentence #1006, processed 28627 words, keeping 1819 word types
+INFO - PROGRESS: at sentence #1008, processed 28728 words, keeping 1820 word types
+INFO - PROGRESS: at sentence #1010, processed 28730 words, keeping 1822 word types
+INFO - PROGRESS: at sentence #1012, processed 28831 words, keeping 1823 word types
+INFO - PROGRESS: at sentence #1014, processed 28833 words, keeping 1825 word types
+INFO - PROGRESS: at sentence #1016, processed 28934 words, keeping 1826 word types
+INFO - PROGRESS: at sentence #1018, processed 28936 words, keeping 1828 word types
+INFO - PROGRESS: at sentence #1020, processed 29037 words, keeping 1829 word types
+INFO - PROGRESS: at sentence #1022, processed 29039 words, keeping 1831 word types
+INFO - PROGRESS: at sentence #1024, processed 29140 words, keeping 1833 word types
+INFO - PROGRESS: at sentence #1026, processed 29340 words, keeping 1833 word types
+INFO - PROGRESS: at sentence #1028, processed 29441 words, keeping 1834 word types
+INFO - PROGRESS: at sentence #1030, processed 29641 words, keeping 1834 word types
+INFO - PROGRESS: at sentence #1032, processed 29643 words, keeping 1836 word types
+INFO - PROGRESS: at sentence #1034, processed 29645 words, keeping 1838 word types
+INFO - PROGRESS: at sentence #1036, processed 29746 words, keeping 1839 word types
+INFO - PROGRESS: at sentence #1038, processed 29748 words, keeping 1841 word types
+INFO - PROGRESS: at sentence #1040, processed 29849 words, keeping 1842 word types
+INFO - PROGRESS: at sentence #1042, processed 29851 words, keeping 1844 word types
+INFO - PROGRESS: at sentence #1044, processed 29853 words, keeping 1846 word types
+INFO - PROGRESS: at sentence #1046, processed 29855 words, keeping 1848 word types
+INFO - PROGRESS: at sentence #1048, processed 29956 words, keeping 1849 word types
+INFO - PROGRESS: at sentence #1050, processed 30057 words, keeping 1852 word types
+INFO - PROGRESS: at sentence #1052, processed 30059 words, keeping 1854 word types
+INFO - PROGRESS: at sentence #1054, processed 30061 words, keeping 1856 word types
+INFO - PROGRESS: at sentence #1056, processed 30063 words, keeping 1858 word types
+INFO - PROGRESS: at sentence #1058, processed 30164 words, keeping 1859 word types
+INFO - PROGRESS: at sentence #1060, processed 30166 words, keeping 1861 word types
+INFO - PROGRESS: at sentence #1062, processed 30267 words, keeping 1862 word types
+INFO - PROGRESS: at sentence #1064, processed 30368 words, keeping 1863 word types
+INFO - PROGRESS: at sentence #1066, processed 30568 words, keeping 1866 word types
+INFO - PROGRESS: at sentence #1068, processed 30669 words, keeping 1869 word types
+INFO - PROGRESS: at sentence #1070, processed 30869 words, keeping 1873 word types
+INFO - PROGRESS: at sentence #1072, processed 30871 words, keeping 1875 word types
+INFO - PROGRESS: at sentence #1074, processed 30972 words, keeping 1876 word types
+INFO - PROGRESS: at sentence #1076, processed 30974 words, keeping 1878 word types
+INFO - PROGRESS: at sentence #1078, processed 30976 words, keeping 1880 word types
+INFO - PROGRESS: at sentence #1080, processed 30978 words, keeping 1882 word types
+INFO - PROGRESS: at sentence #1082, processed 31079 words, keeping 1883 word types
+INFO - PROGRESS: at sentence #1084, processed 31081 words, keeping 1885 word types
+INFO - PROGRESS: at sentence #1086, processed 31083 words, keeping 1887 word types
+INFO - PROGRESS: at sentence #1088, processed 31085 words, keeping 1889 word types
+INFO - PROGRESS: at sentence #1090, processed 31087 words, keeping 1891 word types
+INFO - PROGRESS: at sentence #1092, processed 31089 words, keeping 1893 word types
+INFO - PROGRESS: at sentence #1094, processed 31190 words, keeping 1894 word types
+INFO - PROGRESS: at sentence #1096, processed 31390 words, keeping 1894 word types
+INFO - PROGRESS: at sentence #1098, processed 31392 words, keeping 1896 word types
+INFO - PROGRESS: at sentence #1100, processed 31493 words, keeping 1897 word types
+INFO - PROGRESS: at sentence #1102, processed 31495 words, keeping 1899 word types
+INFO - PROGRESS: at sentence #1104, processed 31497 words, keeping 1901 word types
+INFO - PROGRESS: at sentence #1106, processed 31499 words, keeping 1903 word types
+INFO - PROGRESS: at sentence #1108, processed 31501 words, keeping 1905 word types
+INFO - PROGRESS: at sentence #1110, processed 31503 words, keeping 1907 word types
+INFO - PROGRESS: at sentence #1112, processed 31505 words, keeping 1909 word types
+INFO - PROGRESS: at sentence #1114, processed 31507 words, keeping 1911 word types
+INFO - PROGRESS: at sentence #1116, processed 31509 words, keeping 1913 word types
+INFO - PROGRESS: at sentence #1118, processed 31610 words, keeping 1914 word types
+INFO - PROGRESS: at sentence #1120, processed 31612 words, keeping 1916 word types
+INFO - PROGRESS: at sentence #1122, processed 31713 words, keeping 1917 word types
+INFO - PROGRESS: at sentence #1124, processed 31814 words, keeping 1918 word types
+INFO - PROGRESS: at sentence #1126, processed 31816 words, keeping 1920 word types
+INFO - PROGRESS: at sentence #1128, processed 31818 words, keeping 1922 word types
+INFO - PROGRESS: at sentence #1130, processed 31820 words, keeping 1924 word types
+INFO - PROGRESS: at sentence #1132, processed 31822 words, keeping 1926 word types
+INFO - PROGRESS: at sentence #1134, processed 32022 words, keeping 1926 word types
+INFO - PROGRESS: at sentence #1136, processed 32123 words, keeping 1927 word types
+INFO - PROGRESS: at sentence #1138, processed 32224 words, keeping 1928 word types
+INFO - PROGRESS: at sentence #1140, processed 32226 words, keeping 1930 word types
+INFO - PROGRESS: at sentence #1142, processed 32228 words, keeping 1932 word types
+INFO - PROGRESS: at sentence #1144, processed 32230 words, keeping 1934 word types
+INFO - PROGRESS: at sentence #1146, processed 32232 words, keeping 1936 word types
+INFO - PROGRESS: at sentence #1148, processed 32234 words, keeping 1938 word types
+INFO - PROGRESS: at sentence #1150, processed 32335 words, keeping 1939 word types
+INFO - PROGRESS: at sentence #1152, processed 32337 words, keeping 1941 word types
+INFO - PROGRESS: at sentence #1154, processed 32339 words, keeping 1943 word types
+INFO - PROGRESS: at sentence #1156, processed 32341 words, keeping 1945 word types
+INFO - PROGRESS: at sentence #1158, processed 32442 words, keeping 1946 word types
+INFO - PROGRESS: at sentence #1160, processed 32444 words, keeping 1948 word types
+INFO - PROGRESS: at sentence #1162, processed 32545 words, keeping 1949 word types
+INFO - PROGRESS: at sentence #1164, processed 32547 words, keeping 1951 word types
+INFO - PROGRESS: at sentence #1166, processed 32549 words, keeping 1953 word types
+INFO - PROGRESS: at sentence #1168, processed 32650 words, keeping 1954 word types
+INFO - PROGRESS: at sentence #1170, processed 32652 words, keeping 1956 word types
+INFO - PROGRESS: at sentence #1172, processed 32654 words, keeping 1958 word types
+INFO - PROGRESS: at sentence #1174, processed 32656 words, keeping 1960 word types
+INFO - PROGRESS: at sentence #1176, processed 32757 words, keeping 1961 word types
+INFO - PROGRESS: at sentence #1178, processed 32858 words, keeping 1962 word types
+INFO - PROGRESS: at sentence #1180, processed 32860 words, keeping 1964 word types
+INFO - PROGRESS: at sentence #1182, processed 32961 words, keeping 1965 word types
+INFO - PROGRESS: at sentence #1184, processed 33062 words, keeping 1966 word types
+INFO - PROGRESS: at sentence #1186, processed 33163 words, keeping 1967 word types
+INFO - PROGRESS: at sentence #1188, processed 33165 words, keeping 1969 word types
+INFO - PROGRESS: at sentence #1190, processed 33167 words, keeping 1971 word types
+INFO - PROGRESS: at sentence #1192, processed 33268 words, keeping 1972 word types
+INFO - PROGRESS: at sentence #1194, processed 33270 words, keeping 1974 word types
+INFO - PROGRESS: at sentence #1196, processed 33272 words, keeping 1976 word types
+INFO - PROGRESS: at sentence #1198, processed 33472 words, keeping 1978 word types
+INFO - PROGRESS: at sentence #1200, processed 33474 words, keeping 1980 word types
+INFO - PROGRESS: at sentence #1202, processed 33476 words, keeping 1982 word types
+INFO - PROGRESS: at sentence #1204, processed 33577 words, keeping 1983 word types
+INFO - PROGRESS: at sentence #1206, processed 33678 words, keeping 1984 word types
+INFO - PROGRESS: at sentence #1208, processed 33680 words, keeping 1986 word types
+INFO - PROGRESS: at sentence #1210, processed 33781 words, keeping 1987 word types
+INFO - PROGRESS: at sentence #1212, processed 33783 words, keeping 1989 word types
+INFO - PROGRESS: at sentence #1214, processed 33884 words, keeping 1990 word types
+INFO - PROGRESS: at sentence #1216, processed 33985 words, keeping 1991 word types
+INFO - PROGRESS: at sentence #1218, processed 33987 words, keeping 1993 word types
+INFO - PROGRESS: at sentence #1220, processed 33989 words, keeping 1995 word types
+INFO - PROGRESS: at sentence #1222, processed 34090 words, keeping 1996 word types
+INFO - PROGRESS: at sentence #1224, processed 34092 words, keeping 1998 word types
+INFO - PROGRESS: at sentence #1226, processed 34193 words, keeping 1999 word types
+INFO - PROGRESS: at sentence #1228, processed 34294 words, keeping 2000 word types
+INFO - PROGRESS: at sentence #1230, processed 34296 words, keeping 2002 word types
+INFO - PROGRESS: at sentence #1232, processed 34397 words, keeping 2003 word types
+INFO - PROGRESS: at sentence #1234, processed 34498 words, keeping 2004 word types
+INFO - PROGRESS: at sentence #1236, processed 34500 words, keeping 2006 word types
+INFO - PROGRESS: at sentence #1238, processed 34700 words, keeping 2008 word types
+INFO - PROGRESS: at sentence #1240, processed 34900 words, keeping 2008 word types
+INFO - PROGRESS: at sentence #1242, processed 35100 words, keeping 2008 word types
+INFO - PROGRESS: at sentence #1244, processed 35201 words, keeping 2009 word types
+INFO - PROGRESS: at sentence #1246, processed 35302 words, keeping 2010 word types
+INFO - PROGRESS: at sentence #1248, processed 35502 words, keeping 2010 word types
+INFO - PROGRESS: at sentence #1250, processed 35603 words, keeping 2011 word types
+INFO - PROGRESS: at sentence #1252, processed 35704 words, keeping 2012 word types
+INFO - PROGRESS: at sentence #1254, processed 35706 words, keeping 2014 word types
+INFO - PROGRESS: at sentence #1256, processed 35807 words, keeping 2015 word types
+INFO - PROGRESS: at sentence #1258, processed 35809 words, keeping 2017 word types
+INFO - PROGRESS: at sentence #1260, processed 35910 words, keeping 2018 word types
+INFO - PROGRESS: at sentence #1262, processed 35912 words, keeping 2020 word types
+INFO - PROGRESS: at sentence #1264, processed 35914 words, keeping 2022 word types
+INFO - PROGRESS: at sentence #1266, processed 35916 words, keeping 2024 word types
+INFO - PROGRESS: at sentence #1268, processed 36017 words, keeping 2025 word types
+INFO - PROGRESS: at sentence #1270, processed 36217 words, keeping 2025 word types
+INFO - PROGRESS: at sentence #1272, processed 36318 words, keeping 2026 word types
+INFO - PROGRESS: at sentence #1274, processed 36419 words, keeping 2027 word types
+INFO - PROGRESS: at sentence #1276, processed 36520 words, keeping 2028 word types
+INFO - PROGRESS: at sentence #1278, processed 36621 words, keeping 2029 word types
+INFO - PROGRESS: at sentence #1280, processed 36623 words, keeping 2031 word types
+INFO - PROGRESS: at sentence #1282, processed 36625 words, keeping 2033 word types
+INFO - PROGRESS: at sentence #1284, processed 36627 words, keeping 2035 word types
+INFO - PROGRESS: at sentence #1286, processed 36728 words, keeping 2036 word types
+INFO - PROGRESS: at sentence #1288, processed 36730 words, keeping 2038 word types
+INFO - PROGRESS: at sentence #1290, processed 36732 words, keeping 2040 word types
+INFO - PROGRESS: at sentence #1292, processed 36734 words, keeping 2042 word types
+INFO - PROGRESS: at sentence #1294, processed 36934 words, keeping 2042 word types
+INFO - PROGRESS: at sentence #1296, processed 36936 words, keeping 2044 word types
+INFO - PROGRESS: at sentence #1298, processed 37037 words, keeping 2045 word types
+INFO - PROGRESS: at sentence #1300, processed 37138 words, keeping 2046 word types
+INFO - PROGRESS: at sentence #1302, processed 37239 words, keeping 2048 word types
+INFO - PROGRESS: at sentence #1304, processed 37241 words, keeping 2050 word types
+INFO - PROGRESS: at sentence #1306, processed 37342 words, keeping 2051 word types
+INFO - PROGRESS: at sentence #1308, processed 37443 words, keeping 2052 word types
+INFO - PROGRESS: at sentence #1310, processed 37544 words, keeping 2053 word types
+INFO - PROGRESS: at sentence #1312, processed 37645 words, keeping 2054 word types
+INFO - PROGRESS: at sentence #1314, processed 37746 words, keeping 2055 word types
+INFO - PROGRESS: at sentence #1316, processed 37748 words, keeping 2057 word types
+INFO - PROGRESS: at sentence #1318, processed 37849 words, keeping 2058 word types
+INFO - PROGRESS: at sentence #1320, processed 37950 words, keeping 2059 word types
+INFO - PROGRESS: at sentence #1322, processed 37952 words, keeping 2061 word types
+INFO - PROGRESS: at sentence #1324, processed 37954 words, keeping 2063 word types
+INFO - PROGRESS: at sentence #1326, processed 37956 words, keeping 2065 word types
+INFO - PROGRESS: at sentence #1328, processed 37958 words, keeping 2067 word types
+INFO - PROGRESS: at sentence #1330, processed 37960 words, keeping 2069 word types
+INFO - PROGRESS: at sentence #1332, processed 37962 words, keeping 2071 word types
+INFO - PROGRESS: at sentence #1334, processed 38063 words, keeping 2072 word types
+INFO - PROGRESS: at sentence #1336, processed 38065 words, keeping 2074 word types
+INFO - PROGRESS: at sentence #1338, processed 38067 words, keeping 2076 word types
+INFO - PROGRESS: at sentence #1340, processed 38069 words, keeping 2078 word types
+INFO - PROGRESS: at sentence #1342, processed 38269 words, keeping 2078 word types
+INFO - PROGRESS: at sentence #1344, processed 38370 words, keeping 2079 word types
+INFO - PROGRESS: at sentence #1346, processed 38372 words, keeping 2081 word types
+INFO - PROGRESS: at sentence #1348, processed 38374 words, keeping 2083 word types
+INFO - PROGRESS: at sentence #1350, processed 38475 words, keeping 2084 word types
+INFO - PROGRESS: at sentence #1352, processed 38477 words, keeping 2086 word types
+INFO - PROGRESS: at sentence #1354, processed 38578 words, keeping 2087 word types
+INFO - PROGRESS: at sentence #1356, processed 38580 words, keeping 2089 word types
+INFO - PROGRESS: at sentence #1358, processed 38681 words, keeping 2090 word types
+INFO - PROGRESS: at sentence #1360, processed 38683 words, keeping 2092 word types
+INFO - PROGRESS: at sentence #1362, processed 38685 words, keeping 2094 word types
+INFO - PROGRESS: at sentence #1364, processed 38687 words, keeping 2096 word types
+INFO - PROGRESS: at sentence #1366, processed 38788 words, keeping 2097 word types
+INFO - PROGRESS: at sentence #1368, processed 38790 words, keeping 2099 word types
+INFO - PROGRESS: at sentence #1370, processed 38792 words, keeping 2101 word types
+INFO - PROGRESS: at sentence #1372, processed 38794 words, keeping 2103 word types
+INFO - PROGRESS: at sentence #1374, processed 38796 words, keeping 2105 word types
+INFO - PROGRESS: at sentence #1376, processed 38897 words, keeping 2106 word types
+INFO - PROGRESS: at sentence #1378, processed 38998 words, keeping 2107 word types
+INFO - PROGRESS: at sentence #1380, processed 39099 words, keeping 2108 word types
+INFO - PROGRESS: at sentence #1382, processed 39101 words, keeping 2110 word types
+INFO - PROGRESS: at sentence #1384, processed 39103 words, keeping 2112 word types
+INFO - PROGRESS: at sentence #1386, processed 39105 words, keeping 2114 word types
+INFO - PROGRESS: at sentence #1388, processed 39107 words, keeping 2116 word types
+INFO - PROGRESS: at sentence #1390, processed 39208 words, keeping 2117 word types
+INFO - PROGRESS: at sentence #1392, processed 39309 words, keeping 2118 word types
+INFO - PROGRESS: at sentence #1394, processed 39410 words, keeping 2119 word types
+INFO - PROGRESS: at sentence #1396, processed 39412 words, keeping 2121 word types
+INFO - PROGRESS: at sentence #1398, processed 39414 words, keeping 2123 word types
+INFO - PROGRESS: at sentence #1400, processed 39416 words, keeping 2125 word types
+INFO - PROGRESS: at sentence #1402, processed 39517 words, keeping 2126 word types
+INFO - PROGRESS: at sentence #1404, processed 39618 words, keeping 2129 word types
+INFO - PROGRESS: at sentence #1406, processed 39620 words, keeping 2131 word types
+INFO - PROGRESS: at sentence #1408, processed 39820 words, keeping 2131 word types
+INFO - PROGRESS: at sentence #1410, processed 39822 words, keeping 2133 word types
+INFO - PROGRESS: at sentence #1412, processed 39824 words, keeping 2135 word types
+INFO - PROGRESS: at sentence #1414, processed 39925 words, keeping 2136 word types
+INFO - PROGRESS: at sentence #1416, processed 39927 words, keeping 2138 word types
+INFO - PROGRESS: at sentence #1418, processed 40127 words, keeping 2138 word types
+INFO - PROGRESS: at sentence #1420, processed 40228 words, keeping 2139 word types
+INFO - PROGRESS: at sentence #1422, processed 40230 words, keeping 2141 word types
+INFO - PROGRESS: at sentence #1424, processed 40331 words, keeping 2142 word types
+INFO - PROGRESS: at sentence #1426, processed 40432 words, keeping 2143 word types
+INFO - PROGRESS: at sentence #1428, processed 40533 words, keeping 2144 word types
+INFO - PROGRESS: at sentence #1430, processed 40535 words, keeping 2146 word types
+INFO - PROGRESS: at sentence #1432, processed 40636 words, keeping 2148 word types
+INFO - PROGRESS: at sentence #1434, processed 40638 words, keeping 2150 word types
+INFO - PROGRESS: at sentence #1436, processed 40739 words, keeping 2151 word types
+INFO - PROGRESS: at sentence #1438, processed 40741 words, keeping 2153 word types
+INFO - PROGRESS: at sentence #1440, processed 40842 words, keeping 2154 word types
+INFO - PROGRESS: at sentence #1442, processed 40844 words, keeping 2156 word types
+INFO - PROGRESS: at sentence #1444, processed 40846 words, keeping 2158 word types
+INFO - PROGRESS: at sentence #1446, processed 40848 words, keeping 2160 word types
+INFO - PROGRESS: at sentence #1448, processed 40949 words, keeping 2161 word types
+INFO - PROGRESS: at sentence #1450, processed 41050 words, keeping 2162 word types
+INFO - PROGRESS: at sentence #1452, processed 41151 words, keeping 2163 word types
+INFO - PROGRESS: at sentence #1454, processed 41153 words, keeping 2165 word types
+INFO - PROGRESS: at sentence #1456, processed 41254 words, keeping 2166 word types
+INFO - PROGRESS: at sentence #1458, processed 41256 words, keeping 2168 word types
+INFO - PROGRESS: at sentence #1460, processed 41258 words, keeping 2170 word types
+INFO - PROGRESS: at sentence #1462, processed 41359 words, keeping 2171 word types
+INFO - PROGRESS: at sentence #1464, processed 41361 words, keeping 2173 word types
+INFO - PROGRESS: at sentence #1466, processed 41363 words, keeping 2175 word types
+INFO - PROGRESS: at sentence #1468, processed 41464 words, keeping 2177 word types
+INFO - PROGRESS: at sentence #1470, processed 41466 words, keeping 2179 word types
+INFO - PROGRESS: at sentence #1472, processed 41468 words, keeping 2181 word types
+INFO - PROGRESS: at sentence #1474, processed 41470 words, keeping 2183 word types
+INFO - PROGRESS: at sentence #1476, processed 41472 words, keeping 2185 word types
+INFO - PROGRESS: at sentence #1478, processed 41573 words, keeping 2186 word types
+INFO - PROGRESS: at sentence #1480, processed 41575 words, keeping 2188 word types
+INFO - PROGRESS: at sentence #1482, processed 41577 words, keeping 2190 word types
+INFO - PROGRESS: at sentence #1484, processed 41678 words, keeping 2191 word types
+INFO - PROGRESS: at sentence #1486, processed 41680 words, keeping 2193 word types
+INFO - PROGRESS: at sentence #1488, processed 41781 words, keeping 2194 word types
+INFO - PROGRESS: at sentence #1490, processed 41783 words, keeping 2196 word types
+INFO - PROGRESS: at sentence #1492, processed 41785 words, keeping 2198 word types
+INFO - PROGRESS: at sentence #1494, processed 41886 words, keeping 2199 word types
+INFO - PROGRESS: at sentence #1496, processed 41888 words, keeping 2201 word types
+INFO - PROGRESS: at sentence #1498, processed 41890 words, keeping 2203 word types
+INFO - PROGRESS: at sentence #1500, processed 41892 words, keeping 2205 word types
+INFO - PROGRESS: at sentence #1502, processed 41993 words, keeping 2206 word types
+INFO - PROGRESS: at sentence #1504, processed 42094 words, keeping 2208 word types
+INFO - PROGRESS: at sentence #1506, processed 42096 words, keeping 2210 word types
+INFO - PROGRESS: at sentence #1508, processed 42197 words, keeping 2211 word types
+INFO - PROGRESS: at sentence #1510, processed 42199 words, keeping 2213 word types
+INFO - PROGRESS: at sentence #1512, processed 42201 words, keeping 2215 word types
+INFO - PROGRESS: at sentence #1514, processed 42203 words, keeping 2217 word types
+INFO - PROGRESS: at sentence #1516, processed 42205 words, keeping 2219 word types
+INFO - PROGRESS: at sentence #1518, processed 42207 words, keeping 2221 word types
+INFO - PROGRESS: at sentence #1520, processed 42308 words, keeping 2222 word types
+INFO - PROGRESS: at sentence #1522, processed 42310 words, keeping 2224 word types
+INFO - PROGRESS: at sentence #1524, processed 42411 words, keeping 2225 word types
+INFO - PROGRESS: at sentence #1526, processed 42512 words, keeping 2226 word types
+INFO - PROGRESS: at sentence #1528, processed 42514 words, keeping 2228 word types
+INFO - PROGRESS: at sentence #1530, processed 42516 words, keeping 2230 word types
+INFO - PROGRESS: at sentence #1532, processed 42518 words, keeping 2232 word types
+INFO - PROGRESS: at sentence #1534, processed 42520 words, keeping 2234 word types
+INFO - PROGRESS: at sentence #1536, processed 42522 words, keeping 2236 word types
+INFO - PROGRESS: at sentence #1538, processed 42722 words, keeping 2236 word types
+INFO - PROGRESS: at sentence #1540, processed 42922 words, keeping 2236 word types
+INFO - PROGRESS: at sentence #1542, processed 43023 words, keeping 2237 word types
+INFO - PROGRESS: at sentence #1544, processed 43223 words, keeping 2237 word types
+INFO - PROGRESS: at sentence #1546, processed 43324 words, keeping 2238 word types
+INFO - PROGRESS: at sentence #1548, processed 43425 words, keeping 2239 word types
+INFO - PROGRESS: at sentence #1550, processed 43427 words, keeping 2241 word types
+INFO - PROGRESS: at sentence #1552, processed 43429 words, keeping 2243 word types
+INFO - PROGRESS: at sentence #1554, processed 43431 words, keeping 2245 word types
+INFO - PROGRESS: at sentence #1556, processed 43532 words, keeping 2246 word types
+INFO - PROGRESS: at sentence #1558, processed 43732 words, keeping 2246 word types
+INFO - PROGRESS: at sentence #1560, processed 43734 words, keeping 2248 word types
+INFO - PROGRESS: at sentence #1562, processed 43736 words, keeping 2250 word types
+INFO - PROGRESS: at sentence #1564, processed 43738 words, keeping 2252 word types
+INFO - PROGRESS: at sentence #1566, processed 43740 words, keeping 2254 word types
+INFO - PROGRESS: at sentence #1568, processed 43841 words, keeping 2255 word types
+INFO - PROGRESS: at sentence #1570, processed 43942 words, keeping 2256 word types
+INFO - PROGRESS: at sentence #1572, processed 43944 words, keeping 2258 word types
+INFO - PROGRESS: at sentence #1574, processed 43946 words, keeping 2260 word types
+INFO - PROGRESS: at sentence #1576, processed 43948 words, keeping 2262 word types
+INFO - PROGRESS: at sentence #1578, processed 43950 words, keeping 2264 word types
+INFO - PROGRESS: at sentence #1580, processed 44051 words, keeping 2265 word types
+INFO - PROGRESS: at sentence #1582, processed 44152 words, keeping 2266 word types
+INFO - PROGRESS: at sentence #1584, processed 44154 words, keeping 2268 word types
+INFO - PROGRESS: at sentence #1586, processed 44156 words, keeping 2270 word types
+INFO - PROGRESS: at sentence #1588, processed 44257 words, keeping 2271 word types
+INFO - PROGRESS: at sentence #1590, processed 44358 words, keeping 2272 word types
+INFO - PROGRESS: at sentence #1592, processed 44558 words, keeping 2272 word types
+INFO - PROGRESS: at sentence #1594, processed 44659 words, keeping 2273 word types
+INFO - PROGRESS: at sentence #1596, processed 44859 words, keeping 2275 word types
+INFO - PROGRESS: at sentence #1598, processed 44861 words, keeping 2277 word types
+INFO - PROGRESS: at sentence #1600, processed 44962 words, keeping 2278 word types
+INFO - PROGRESS: at sentence #1602, processed 45063 words, keeping 2279 word types
+INFO - PROGRESS: at sentence #1604, processed 45065 words, keeping 2281 word types
+INFO - PROGRESS: at sentence #1606, processed 45166 words, keeping 2282 word types
+INFO - PROGRESS: at sentence #1608, processed 45168 words, keeping 2284 word types
+INFO - PROGRESS: at sentence #1610, processed 45269 words, keeping 2285 word types
+INFO - PROGRESS: at sentence #1612, processed 45370 words, keeping 2286 word types
+INFO - PROGRESS: at sentence #1614, processed 45471 words, keeping 2287 word types
+INFO - PROGRESS: at sentence #1616, processed 45572 words, keeping 2288 word types
+INFO - PROGRESS: at sentence #1618, processed 45574 words, keeping 2290 word types
+INFO - PROGRESS: at sentence #1620, processed 45576 words, keeping 2292 word types
+INFO - PROGRESS: at sentence #1622, processed 45677 words, keeping 2293 word types
+INFO - PROGRESS: at sentence #1624, processed 45679 words, keeping 2295 word types
+INFO - PROGRESS: at sentence #1626, processed 45681 words, keeping 2297 word types
+INFO - PROGRESS: at sentence #1628, processed 45782 words, keeping 2298 word types
+INFO - PROGRESS: at sentence #1630, processed 45883 words, keeping 2299 word types
+INFO - PROGRESS: at sentence #1632, processed 45984 words, keeping 2300 word types
+INFO - PROGRESS: at sentence #1634, processed 46085 words, keeping 2301 word types
+INFO - PROGRESS: at sentence #1636, processed 46186 words, keeping 2302 word types
+INFO - PROGRESS: at sentence #1638, processed 46287 words, keeping 2305 word types
+INFO - PROGRESS: at sentence #1640, processed 46289 words, keeping 2307 word types
+INFO - PROGRESS: at sentence #1642, processed 46390 words, keeping 2308 word types
+INFO - PROGRESS: at sentence #1644, processed 46392 words, keeping 2310 word types
+INFO - PROGRESS: at sentence #1646, processed 46394 words, keeping 2312 word types
+INFO - PROGRESS: at sentence #1648, processed 46495 words, keeping 2313 word types
+INFO - PROGRESS: at sentence #1650, processed 46497 words, keeping 2315 word types
+INFO - PROGRESS: at sentence #1652, processed 46499 words, keeping 2317 word types
+INFO - PROGRESS: at sentence #1654, processed 46600 words, keeping 2318 word types
+INFO - PROGRESS: at sentence #1656, processed 46800 words, keeping 2318 word types
+INFO - PROGRESS: at sentence #1658, processed 46901 words, keeping 2319 word types
+INFO - PROGRESS: at sentence #1660, processed 46903 words, keeping 2321 word types
+INFO - PROGRESS: at sentence #1662, processed 46905 words, keeping 2323 word types
+INFO - PROGRESS: at sentence #1664, processed 46907 words, keeping 2325 word types
+INFO - PROGRESS: at sentence #1666, processed 46909 words, keeping 2327 word types
+INFO - PROGRESS: at sentence #1668, processed 47010 words, keeping 2328 word types
+INFO - PROGRESS: at sentence #1670, processed 47111 words, keeping 2329 word types
+INFO - PROGRESS: at sentence #1672, processed 47212 words, keeping 2330 word types
+INFO - PROGRESS: at sentence #1674, processed 47412 words, keeping 2330 word types
+INFO - PROGRESS: at sentence #1676, processed 47612 words, keeping 2330 word types
+INFO - PROGRESS: at sentence #1678, processed 47614 words, keeping 2332 word types
+INFO - PROGRESS: at sentence #1680, processed 47814 words, keeping 2332 word types
+INFO - PROGRESS: at sentence #1682, processed 47915 words, keeping 2333 word types
+INFO - PROGRESS: at sentence #1684, processed 47917 words, keeping 2335 word types
+INFO - PROGRESS: at sentence #1686, processed 47919 words, keeping 2337 word types
+INFO - PROGRESS: at sentence #1688, processed 47921 words, keeping 2339 word types
+INFO - PROGRESS: at sentence #1690, processed 48022 words, keeping 2340 word types
+INFO - PROGRESS: at sentence #1692, processed 48123 words, keeping 2341 word types
+INFO - PROGRESS: at sentence #1694, processed 48125 words, keeping 2343 word types
+INFO - PROGRESS: at sentence #1696, processed 48226 words, keeping 2344 word types
+INFO - PROGRESS: at sentence #1698, processed 48228 words, keeping 2346 word types
+INFO - PROGRESS: at sentence #1700, processed 48230 words, keeping 2348 word types
+INFO - PROGRESS: at sentence #1702, processed 48232 words, keeping 2350 word types
+INFO - PROGRESS: at sentence #1704, processed 48234 words, keeping 2352 word types
+INFO - PROGRESS: at sentence #1706, processed 48236 words, keeping 2354 word types
+INFO - PROGRESS: at sentence #1708, processed 48337 words, keeping 2355 word types
+INFO - PROGRESS: at sentence #1710, processed 48339 words, keeping 2357 word types
+INFO - PROGRESS: at sentence #1712, processed 48341 words, keeping 2359 word types
+INFO - PROGRESS: at sentence #1714, processed 48442 words, keeping 2360 word types
+INFO - PROGRESS: at sentence #1716, processed 48444 words, keeping 2362 word types
+INFO - PROGRESS: at sentence #1718, processed 48446 words, keeping 2364 word types
+INFO - PROGRESS: at sentence #1720, processed 48448 words, keeping 2366 word types
+INFO - PROGRESS: at sentence #1722, processed 48549 words, keeping 2367 word types
+INFO - PROGRESS: at sentence #1724, processed 48650 words, keeping 2368 word types
+INFO - PROGRESS: at sentence #1726, processed 48751 words, keeping 2369 word types
+INFO - PROGRESS: at sentence #1728, processed 48852 words, keeping 2370 word types
+INFO - PROGRESS: at sentence #1730, processed 49052 words, keeping 2371 word types
+INFO - PROGRESS: at sentence #1732, processed 49054 words, keeping 2373 word types
+INFO - PROGRESS: at sentence #1734, processed 49155 words, keeping 2374 word types
+INFO - PROGRESS: at sentence #1736, processed 49256 words, keeping 2375 word types
+INFO - PROGRESS: at sentence #1738, processed 49258 words, keeping 2377 word types
+INFO - PROGRESS: at sentence #1740, processed 49260 words, keeping 2379 word types
+INFO - PROGRESS: at sentence #1742, processed 49361 words, keeping 2380 word types
+INFO - PROGRESS: at sentence #1744, processed 49363 words, keeping 2382 word types
+INFO - PROGRESS: at sentence #1746, processed 49365 words, keeping 2384 word types
+INFO - PROGRESS: at sentence #1748, processed 49466 words, keeping 2385 word types
+INFO - PROGRESS: at sentence #1750, processed 49567 words, keeping 2386 word types
+INFO - PROGRESS: at sentence #1752, processed 49668 words, keeping 2387 word types
+INFO - PROGRESS: at sentence #1754, processed 49769 words, keeping 2388 word types
+INFO - PROGRESS: at sentence #1756, processed 49771 words, keeping 2390 word types
+INFO - PROGRESS: at sentence #1758, processed 49872 words, keeping 2391 word types
+INFO - PROGRESS: at sentence #1760, processed 50072 words, keeping 2393 word types
+INFO - PROGRESS: at sentence #1762, processed 50074 words, keeping 2395 word types
+INFO - PROGRESS: at sentence #1764, processed 50076 words, keeping 2397 word types
+INFO - PROGRESS: at sentence #1766, processed 50177 words, keeping 2398 word types
+INFO - PROGRESS: at sentence #1768, processed 50377 words, keeping 2398 word types
+INFO - collected 2399 word types from a corpus of 50378 raw words and 1769 sentences
+INFO - Creating a fresh vocabulary
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 retains 2399 unique words (100.00% of original 2399, drops 0)', 'datetime': '2024-01-01T13:13:30.823186', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=1 leaves 50378 word corpus (100.00% of original 50378, drops 0)', 'datetime': '2024-01-01T13:13:30.823493', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - deleting the raw counts dictionary of 2399 items
+INFO - sample=0.001 downsamples 61 most-common words
+INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 45972.69868916719 word corpus (91.3%% of prior 50378)', 'datetime': '2024-01-01T13:13:30.829925', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'prepare_vocab'}
+INFO - estimated required memory for 2399 words and 100 dimensions: 3118700 bytes
+INFO - resetting layer weights
+INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2024-01-01T13:13:30.840885', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'build_vocab'}
+INFO - Word2Vec lifecycle event {'msg': 'training model with 7 workers on 2399 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2024-01-01T13:13:30.841234', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - EPOCH 0: training on 50378 raw words (46006 effective words) took 0.1s, 778967 effective words/s
+INFO - EPOCH 1: training on 50378 raw words (45988 effective words) took 0.1s, 748195 effective words/s
+INFO - EPOCH 2: training on 50378 raw words (45874 effective words) took 0.1s, 726443 effective words/s
+INFO - EPOCH 3: training on 50378 raw words (45919 effective words) took 0.1s, 741726 effective words/s
+INFO - EPOCH 4: training on 50378 raw words (45979 effective words) took 0.1s, 716469 effective words/s
+INFO - EPOCH 5: training on 50378 raw words (45996 effective words) took 0.1s, 757888 effective words/s
+INFO - EPOCH 6: training on 50378 raw words (45975 effective words) took 0.1s, 685298 effective words/s
+INFO - EPOCH 7: training on 50378 raw words (45934 effective words) took 0.1s, 731184 effective words/s
+INFO - EPOCH 8: training on 50378 raw words (45951 effective words) took 0.1s, 774958 effective words/s
+INFO - EPOCH 9: training on 50378 raw words (45996 effective words) took 0.1s, 726630 effective words/s
+INFO - EPOCH 10: training on 50378 raw words (46023 effective words) took 0.1s, 750423 effective words/s
+INFO - EPOCH 11: training on 50378 raw words (46045 effective words) took 0.1s, 741630 effective words/s
+INFO - EPOCH 12: training on 50378 raw words (45980 effective words) took 0.1s, 690521 effective words/s
+INFO - EPOCH 13: training on 50378 raw words (45925 effective words) took 0.1s, 712263 effective words/s
+INFO - EPOCH 14: training on 50378 raw words (45990 effective words) took 0.1s, 663810 effective words/s
+INFO - EPOCH 15: training on 50378 raw words (46065 effective words) took 0.1s, 686432 effective words/s
+INFO - EPOCH 16: training on 50378 raw words (45943 effective words) took 0.1s, 751126 effective words/s
+INFO - EPOCH 17: training on 50378 raw words (45908 effective words) took 0.1s, 704720 effective words/s
+INFO - EPOCH 18: training on 50378 raw words (45858 effective words) took 0.1s, 754560 effective words/s
+INFO - EPOCH 19: training on 50378 raw words (46028 effective words) took 0.1s, 714565 effective words/s
+INFO - EPOCH 20: training on 50378 raw words (46048 effective words) took 0.1s, 746474 effective words/s
+INFO - EPOCH 21: training on 50378 raw words (45870 effective words) took 0.1s, 689049 effective words/s
+INFO - EPOCH 22: training on 50378 raw words (45942 effective words) took 0.1s, 717852 effective words/s
+INFO - EPOCH 23: training on 50378 raw words (45901 effective words) took 0.1s, 794815 effective words/s
+INFO - EPOCH 24: training on 50378 raw words (46085 effective words) took 0.1s, 730408 effective words/s
+INFO - EPOCH 25: training on 50378 raw words (46112 effective words) took 0.1s, 706302 effective words/s
+INFO - EPOCH 26: training on 50378 raw words (45960 effective words) took 0.1s, 702798 effective words/s
+INFO - EPOCH 27: training on 50378 raw words (45950 effective words) took 0.1s, 733760 effective words/s
+INFO - EPOCH 28: training on 50378 raw words (46016 effective words) took 0.1s, 699219 effective words/s
+INFO - EPOCH 29: training on 50378 raw words (45912 effective words) took 0.1s, 701751 effective words/s
+INFO - Word2Vec lifecycle event {'msg': 'training on 1511340 raw words (1379179 effective words) took 2.0s, 688570 effective words/s', 'datetime': '2024-01-01T13:13:32.844508', 'gensim': '4.3.0', 'python': '3.11.2 (main, Mar 27 2023, 23:42:44) [GCC 11.2.0]', 'platform': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'event': 'train'}
+INFO - AIFB dataset is already downloaded
