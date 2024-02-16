@@ -1,0 +1,14 @@
+name: KnoWalk
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - pickleshare=0.7.5=pyhd3eb1b0_1003
+  - pip=22.1.2=py310h06a4308_0
+  - python=3.10.4=h12debd9_0
+  - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - tqdm=4.64.0=py310h06a4308_0
+  - pip:
+    - gensim==4.2.0
+    - networkx==2.8.6
+    - pandas==1.5.3

@@ -1,0 +1,16 @@
+name: DLemb
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - pickleshare=0.7.5=pyhd3eb1b0_1003
+  - pip=22.1.2=py310h06a4308_0
+  - python=3.10.4=h12debd9_0
+  - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - tqdm=4.64.0=py310h06a4308_0
+  - pip:
+    - pandas==1.5.3
+    - keras==2.12.0
+    - torch==2.0.0
+    - numpy==1.23.5
+    - tensorflow==2.12.0
