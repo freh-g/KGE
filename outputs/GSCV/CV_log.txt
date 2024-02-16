@@ -1,0 +1,119 @@
+
+Dlemb_Concatenation_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Dlemb_Sum_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Dlemb_Average_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Dlemb_Hadmard_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+knowalk_Concatenation_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+knowalk_Sum_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+knowalk_Average_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+knowalk_Hadmard_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Metapath2Vec_Concatenation_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Metapath2Vec_Sum_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Metapath2Vec_Average_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Metapath2Vec_Hadmard_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+RGCN_Concatenation_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+RGCN_Sum_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+RGCN_Average_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+RGCN_Hadmard_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+RotatE_Concatenation_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+RotatE_Sum_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Dlemb_Concatenation_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Dlemb_Concatenation_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Dlemb_Sum_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+Dlemb_Average_ffn	{'activation_func': 'sigmoid', 'batch_size': 30, 'epochs': 3, 'first_layer_nodes': 50, 'last_layer_nodes': 50, 'loss_func': 'binary_crossentropy', 'n_layers': 3}
+TransE_Concatenation_lr	{'C': 1, 'penalty': 'l2'}
+TransE_Concatenation_rf	{'max_depth': None, 'n_estimators': 100}
+TransE_Concatenation_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+TransE_Concatenation_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+TransE_Sum_lr	{'C': 0.01, 'penalty': 'l2'}
+TransE_Sum_rf	{'max_depth': None, 'n_estimators': 100}
+TransE_Sum_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+TransE_Sum_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+TransE_Average_lr	{'C': 1, 'penalty': 'l2'}
+TransE_Average_rf	{'max_depth': None, 'n_estimators': 100}
+TransE_Average_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+TransE_Average_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+TransE_Hadmard_lr	{'C': 25, 'penalty': 'l2'}
+TransE_Hadmard_rf	{'max_depth': None, 'n_estimators': 100}
+TransE_Hadmard_xgb	{'colsample_bytree': 0.3, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+TransE_Hadmard_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+RotatE_Concatenation_lr	{'C': 1, 'penalty': 'l2'}
+RotatE_Concatenation_rf	{'max_depth': None, 'n_estimators': 100}
+RotatE_Concatenation_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+RotatE_Concatenation_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+RotatE_Sum_lr	{'C': 0.01, 'penalty': 'l2'}
+RotatE_Sum_rf	{'max_depth': None, 'n_estimators': 100}
+RotatE_Sum_xgb	{'colsample_bytree': 0.7, 'gamma': 0.5, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+RotatE_Sum_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+RotatE_Average_lr	{'C': 1, 'penalty': 'l2'}
+RotatE_Average_rf	{'max_depth': None, 'n_estimators': 100}
+RotatE_Average_xgb	{'colsample_bytree': 0.7, 'gamma': 0.5, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+RotatE_Average_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+RotatE_Hadmard_lr	{'C': 5, 'penalty': 'l2'}
+RotatE_Hadmard_rf	{'max_depth': None, 'n_estimators': 100}
+RotatE_Hadmard_xgb	{'colsample_bytree': 0.3, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+RotatE_Hadmard_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+knowalk_Concatenation_lr	{'C': 1, 'penalty': 'l2'}
+knowalk_Concatenation_rf	{'max_depth': None, 'n_estimators': 100}
+knowalk_Concatenation_xgb	{'colsample_bytree': 0.7, 'gamma': 0.5, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+knowalk_Concatenation_svm	{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+knowalk_Sum_lr	{'C': 0.01, 'penalty': 'l2'}
+knowalk_Sum_rf	{'max_depth': None, 'n_estimators': 100}
+knowalk_Sum_xgb	{'colsample_bytree': 0.7, 'gamma': 0.5, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+knowalk_Sum_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+knowalk_Average_lr	{'C': 1, 'penalty': 'l2'}
+knowalk_Average_rf	{'max_depth': None, 'n_estimators': 100}
+knowalk_Average_xgb	{'colsample_bytree': 0.7, 'gamma': 0.5, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+knowalk_Average_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+knowalk_Hadmard_lr	{'C': 1, 'penalty': 'l2'}
+knowalk_Hadmard_rf	{'max_depth': None, 'n_estimators': 100}
+knowalk_Hadmard_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+knowalk_Hadmard_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+RGCN_Concatenation_lr	{'C': 1, 'penalty': 'l2'}
+RGCN_Concatenation_rf	{'max_depth': None, 'n_estimators': 100}
+RGCN_Concatenation_xgb	{'colsample_bytree': 0.7, 'gamma': 0.5, 'learning_rate': 0.03, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+RGCN_Concatenation_svm	{'C': 0.1, 'gamma': 0.01, 'kernel': 'poly'}
+RGCN_Sum_lr	{'C': 1, 'penalty': 'l2'}
+RGCN_Sum_rf	{'max_depth': None, 'n_estimators': 100}
+RGCN_Sum_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+RGCN_Sum_svm	{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+RGCN_Average_lr	{'C': 5, 'penalty': 'l2'}
+RGCN_Average_rf	{'max_depth': None, 'n_estimators': 100}
+RGCN_Average_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+RGCN_Average_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+RGCN_Hadmard_lr	{'C': 0.001, 'penalty': 'l2'}
+RGCN_Hadmard_rf	{'max_depth': 6, 'n_estimators': 100}
+RGCN_Hadmard_xgb	{'colsample_bytree': 0.7, 'gamma': 0.5, 'learning_rate': 0.03, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+RGCN_Hadmard_svm	{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+Dlemb_Concatenation_lr	{'C': 1, 'penalty': 'l2'}
+Dlemb_Concatenation_rf	{'max_depth': None, 'n_estimators': 100}
+Dlemb_Concatenation_xgb	{'colsample_bytree': 0.7, 'gamma': 0.5, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+Dlemb_Concatenation_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Dlemb_Sum_lr	{'C': 25, 'penalty': 'l2'}
+Dlemb_Sum_rf	{'max_depth': None, 'n_estimators': 100}
+Dlemb_Sum_xgb	{'colsample_bytree': 0.3, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+Dlemb_Sum_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Dlemb_Average_lr	{'C': 25, 'penalty': 'l2'}
+Dlemb_Average_rf	{'max_depth': None, 'n_estimators': 100}
+Dlemb_Average_xgb	{'colsample_bytree': 0.3, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+Dlemb_Average_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Dlemb_Hadmard_lr	{'C': 25, 'penalty': 'l2'}
+Dlemb_Hadmard_rf	{'max_depth': None, 'n_estimators': 100}
+Dlemb_Hadmard_xgb	{'colsample_bytree': 0.3, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+Dlemb_Hadmard_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Metapath2Vec_Concatenation_lr	{'C': 1, 'penalty': 'l2'}
+Metapath2Vec_Concatenation_rf	{'max_depth': None, 'n_estimators': 100}
+Metapath2Vec_Concatenation_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+Metapath2Vec_Concatenation_svm	{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+Metapath2Vec_Sum_lr	{'C': 25, 'penalty': 'l2'}
+Metapath2Vec_Sum_rf	{'max_depth': None, 'n_estimators': 100}
+Metapath2Vec_Sum_xgb	{'colsample_bytree': 0.3, 'gamma': 0.5, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+Metapath2Vec_Sum_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Metapath2Vec_Average_lr	{'C': 25, 'penalty': 'l2'}
+Metapath2Vec_Average_rf	{'max_depth': None, 'n_estimators': 100}
+Metapath2Vec_Average_xgb	{'colsample_bytree': 0.3, 'gamma': 0.5, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+Metapath2Vec_Average_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Metapath2Vec_Hadmard_lr	{'C': 1, 'penalty': 'l2'}
+Metapath2Vec_Hadmard_rf	{'max_depth': None, 'n_estimators': 100}
+Metapath2Vec_Hadmard_xgb	{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 150, 'subsample': 0.6}
+Metapath2Vec_Hadmard_svm	{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
